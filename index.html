@@ -2,9 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Stock Entry Form</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-  <style>
+  <title>Priya Gold Stock Entry</title>
+    <style>
     body {
       font-family: 'Roboto', sans-serif;
       background: #f4f4f9;
@@ -113,13 +112,15 @@
       100% { transform: rotate(360deg); }
     }
   </style>
+
 </head>
 <body>
-    <form id="stockForm">
-      <div class="form-header">
+  <form id="stockForm" enctype="multipart/form-data">
+    <div class="form-header">
           <img src="images/logo.jpg" alt="Logo" width=150>
           <h2>Priya Gold Stock Entry</h2>
     </div>
+
     <label for="state">State</label>
     <select id="state" required></select>
 
@@ -135,13 +136,14 @@
     <label for="month">Month</label>
     <input type="month" id="month" required>
 
-    <div id="stockSection" style="display:none">
+    <div id="stockSection" style="display:none;">
       <table>
         <thead>
           <tr>
+            <th>Category</th>
             <th>Item List</th>
             <th>MRP</th>
-            <th>Opening Stock</th>
+            <th>Opening</th>
             <th>Closing</th>
           </tr>
         </thead>
@@ -150,142 +152,175 @@
     </div>
 
     <div class="spinner" id="spinner"></div>
-    <button type="submit" class="btn" id="submitBtn" disabled>Submit</button>
+    <button class="btn" id="submitBtn" type="submit" disabled>Submit</button>
   </form>
+<script>
+  const stateSel = document.getElementById('state');
+  const ssSel = document.getElementById('ss');
+  const dbSel = document.getElementById('db');
+  const passwordInput = document.getElementById('password');
+  const submitBtn = document.getElementById('submitBtn');
+  const stockTableBody = document.getElementById('stockTableBody');
+  const stockSection = document.getElementById('stockSection');
+  const spinner = document.getElementById('spinner');
 
+  let dbData = {};
+  let skuData = [];
 
-  <script>
-    const dbCsv = `State,SS_Name,DB_Name,Password
-Maharashtra,SS1,DB1,1234
-Maharashtra,SS2,DB2,abcd
-`;
+  async function loadData() {
+    const dbRes = await fetch('Data/db.json');
+    dbData = await dbRes.json();
 
-    const skuCsv = `Item_list,Mrp
-Product A,100
-Product B,200
-Product C,150
-`;
+    const skuRes = await fetch('Data/sku_master.json');
+    const raw = await skuRes.json();
+    skuData = Object.keys(raw.Category).map(key => ({
+      Category: raw.Category[key],
+      Item: raw.Item_list[key],
+      Mrp: raw.Mrp[key]
+    }));
 
-    const parseCsv = (csv) => {
-      const [head, ...rows] = csv.trim().split('\n');
-      const headers = head.split(',');
-      return rows.map(row => Object.fromEntries(row.split(',').map((val, i) => [headers[i], val])));
-    };
+    populateStates();
+  }
 
-    const dbData = parseCsv(dbCsv);
-    const skuData = parseCsv(skuCsv);
-
-    const stateSel = document.getElementById('state');
-    const ssSel = document.getElementById('ss');
-    const dbSel = document.getElementById('db');
-    const passwordInput = document.getElementById('password');
-    const submitBtn = document.getElementById('submitBtn');
-    const stockTableBody = document.getElementById('stockTableBody');
-    const stockSection = document.getElementById('stockSection');
-    const spinner = document.getElementById('spinner');
-
-    // Populate State
-    const states = [...new Set(dbData.map(x => x.State))];
+  function populateStates() {
+    const states = Object.keys(dbData);
     stateSel.innerHTML = '<option value="">Select State</option>' + states.map(s => `<option>${s}</option>`).join('');
+  }
 
-    stateSel.onchange = () => {
-      ssSel.innerHTML = '<option value="">Select SS</option>';
-      dbSel.innerHTML = '<option value="">Select DB</option>';
-      const ssOptions = dbData.filter(x => x.State === stateSel.value).map(x => x.SS_Name);
-      const uniqueSS = [...new Set(ssOptions)];
-      uniqueSS.forEach(ss => ssSel.innerHTML += `<option>${ss}</option>`);
-    };
+  stateSel.onchange = () => {
+    ssSel.innerHTML = '<option value="">Select SS</option>';
+    dbSel.innerHTML = '<option value="">Select DB</option>';
+    passwordInput.value = '';
+    submitBtn.disabled = true;
+    stockSection.style.display = 'none';
 
-    ssSel.onchange = () => {
-      dbSel.innerHTML = '<option value="">Select DB</option>';
-      const dbOptions = dbData.filter(x => x.SS_Name === ssSel.value).map(x => x.DB_Name);
-      const uniqueDB = [...new Set(dbOptions)];
-      uniqueDB.forEach(db => dbSel.innerHTML += `<option>${db}</option>`);
-    };
+    const ssList = Object.keys(dbData[stateSel.value] || {});
+    ssList.forEach(ss => ssSel.innerHTML += `<option>${ss}</option>`);
+  };
 
-    dbSel.onchange = () => {
-      passwordInput.value = '';
+  ssSel.onchange = () => {
+    dbSel.innerHTML = '<option value="">Select DB</option>';
+    passwordInput.value = '';
+    submitBtn.disabled = true;
+    stockSection.style.display = 'none';
+
+    const dbList = Object.keys(dbData[stateSel.value]?.[ssSel.value] || {});
+    dbList.forEach(db => dbSel.innerHTML += `<option>${db}</option>`);
+  };
+
+  dbSel.onchange = () => {
+    passwordInput.value = '';
+    submitBtn.disabled = true;
+    stockSection.style.display = 'none';
+  };
+
+  passwordInput.oninput = () => {
+    const actualPassword = dbData?.[stateSel.value]?.[ssSel.value]?.[dbSel.value]?.password;
+    if (passwordInput.value === String(actualPassword)) {
+      renderStockTable();
+      stockSection.style.display = 'block';
+      checkInputs();
+    } else {
       stockSection.style.display = 'none';
       submitBtn.disabled = true;
+    }
+  };
+
+  function renderStockTable() {
+    stockTableBody.innerHTML = '';
+    skuData.forEach(({ Category, Item, Mrp }) => {
+      const row = document.createElement('tr');
+      row.innerHTML = `
+        <td>${Category}</td>
+        <td>${Item}</td>
+        <td>${Mrp}</td>
+        <td><input type="text" class="opening" /></td>
+        <td><input type="text" class="closing" /></td>
+      `;
+      stockTableBody.appendChild(row);
+    });
+  }
+
+  function checkInputs() {
+    const anyFilled = [...document.querySelectorAll('#stockTableBody tr')].some(row => {
+      const inputs = row.querySelectorAll('input');
+      return inputs[0].value.trim() || inputs[1].value.trim();
+    });
+    submitBtn.disabled = !anyFilled;
+  }
+
+  document.getElementById('stockForm').addEventListener('input', checkInputs);
+
+  document.getElementById('stockForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    spinner.style.display = 'block';
+    submitBtn.disabled = true;
+
+    const formData = {
+      State: stateSel.value,
+      SS_Name: ssSel.value,
+      DB_Name: dbSel.value,
+      Month: document.getElementById('month').value,
+      stocks: []
     };
 
-    passwordInput.oninput = () => {
-      const match = dbData.find(row => row.State === stateSel.value && row.SS_Name === ssSel.value && row.DB_Name === dbSel.value);
-      if (match && match.Password === passwordInput.value) {
-        renderStockTable();
-        stockSection.style.display = 'block';
-        checkStockFilled();
-      } else {
-        stockSection.style.display = 'none';
-        submitBtn.disabled = true;
-      }
-    };
+    const rows = stockTableBody.querySelectorAll('tr');
+    rows.forEach(row => {
+      const [cat, item, mrp] = row.querySelectorAll('td');
+      const [open, close] = row.querySelectorAll('input');
 
-    function renderStockTable() {
-      stockTableBody.innerHTML = '';
-      skuData.forEach(item => {
-        const row = document.createElement('tr');
-        row.innerHTML = `
-          <td>${item.Item_list}</td>
-          <td>${item.Mrp}</td>
-          <td><input type="text" class="openStock"></td>
-          <td><input type="text" class="closeStock"></td>
-        `;
-        stockTableBody.appendChild(row);
-      });
-    }
-
-    function checkStockFilled() {
-      const openStocks = document.querySelectorAll('.openStock');
-      const closeStocks = document.querySelectorAll('.closeStock');
-      submitBtn.disabled = ![...openStocks, ...closeStocks].every(input => input.value.trim() !== '');
-    }
-
-    document.getElementById('stockForm').addEventListener('input', checkStockFilled);
-
-    document.getElementById('stockForm').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      spinner.style.display = 'block';
-      submitBtn.disabled = true;
-
-      const data = {
-        State: stateSel.value,
-        SS_Name: ssSel.value,
-        DB_Name: dbSel.value,
-        Month: document.getElementById('month').value,
-        Stock_Table: Array.from(stockTableBody.children).map(row => {
-          const [item, mrp, opening, closing] = row.children;
-          return {
-            Item_list: item.textContent,
-            Mrp: mrp.textContent,
-            Opening_Stock: opening.querySelector('input').value,
-            Closing: closing.querySelector('input').value
-          };
-        })
-      };
-
-      const response = await fetch("https://script.google.com/macros/s/AKfycby4iXX2Kf4krkCA5ThTgeG0uV7gqiNkis2efbehPBVIfWFo6mUoQ13vB4KUSWVXfeCQUA/exec", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify(data)
-      });
-
-      const resText = await response.text();
-      console.log('Response Text:', resText);
-
-      spinner.style.display = 'none';
-      if (response.ok) {
-        alert("Submitted successfully!");
-        document.getElementById('stockForm').reset();
-        stockTableBody.innerHTML = '';
-        stockSection.style.display = 'none';
-        submitBtn.disabled = true;
-      } else {
-        alert("Failed to submit form. Try again.");
+      if (open.value.trim() || close.value.trim()) {
+        formData.stocks.push({
+          Category: cat.textContent,
+          Item: item.textContent,
+          Mrp: parseFloat(mrp.textContent),
+          Opening: open.value.trim(),
+          Closing: close.value.trim()
+        });
       }
     });
-  </script>
-</body>
+
+    try {
+      const res = await fetch('https://script.google.com/macros/s/AKfycbwyP9x-mjl2wu8hYRP0Ctyep2BN4VDLmL9czfR-DoH2gi0JebPG-6M2v2SMuVWE0C_yDw/exec', {
+        method: 'POST',
+        body: JSON.stringify(formData)
+      });
+      const result = await res.json();
+      alert('Stock data submitted successfully!');
+      downloadCSV(formData);
+      document.getElementById('stockForm').reset();
+      stockSection.style.display = 'none';
+      stockTableBody.innerHTML = '';
+    } catch (err) {
+      alert('Failed to submit data.',err);
+    } finally {
+      spinner.style.display = 'none';
+      submitBtn.disabled = true;
+    }
+  });
+
+// Convert submitted data to CSV format
+function downloadCSV(formData) {
+  let csvContent = `State,SS Name,DB Name,Month\n"${formData.State}","${formData.SS_Name}","${formData.DB_Name}","${formData.Month}"\n\n`;
+
+  csvContent += `Category,Item,MRP,Opening,Closing\n`;
+  formData.stocks.forEach(stock => {
+    csvContent += `"${stock.Category}","${stock.Item}",${stock.Mrp},"${stock.Opening}","${stock.Closing}"\n`;
+  });
+
+  const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `stock_data_${formData.State}_${formData.SS_Name}_${formData.DB_Name}_${formData.Month}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+}
+
+  loadData();
+</script>
+
+  </body>
 </html>
