@@ -144,7 +144,8 @@
             <th>Item List</th>
             <th>MRP</th>
             <th>Opening</th>
-            <th>Closing</th>
+            <th>Purchase</th>
+            <th>Sales</th>
             
           </tr>
         </thead>
@@ -236,8 +237,8 @@
         <td>${Item}</td>
         <td>${Mrp}</td>
         <td><input type="text" class="opening" /></td>
-        <td><input type="text" class="closing" /></td>
-  
+        <td><input type="text" class="purchase" /></td>
+        <td><input type="text" class="sales" /></td>
         
       `;
       stockTableBody.appendChild(row);
@@ -270,22 +271,23 @@
     const rows = stockTableBody.querySelectorAll('tr');
     rows.forEach(row => {
       const [cat, item, mrp] = row.querySelectorAll('td');
-      const [open, closing] = row.querySelectorAll('input');
+      const [open, purchase,sales] = row.querySelectorAll('input');
 
-      if (open.value.trim() || closing.value.trim()) {
+      if (open.value.trim() || purchase.value.trim()|| sales.value.trim()) {
         formData.stocks.push({
           Category: cat.textContent,
           Item: item.textContent,
           Mrp: mrp.textContent,
           Opening: open.value.trim(),
-          Closing: closing.value.trim()
+          Purchase: purchase.value.trim(),
+          Sales: sales.value.trim()
           
         });
       }
     });
 
     try {
-      const res = await fetch('https://script.google.com/macros/s/AKfycbz029a9MyvP6h6gGV2wTryJEeOHHzxyhpgn6KppvlYpNTvslihJEhNu-9hrmViIQ9CuMA/exec', {
+      const res = await fetch('https://script.google.com/macros/s/AKfycbyfjo6lapcP4H4Bs8_6mdyJmUxJcuCUOhEd0KrXHPG7Z-cHSFSbjaL0Wgo1rap-xBJtfA/exec', {
         method: 'POST',
         body: JSON.stringify(formData)
       });
@@ -307,9 +309,9 @@
 function downloadCSV(formData) {
   let csvContent = `State,SS Name,DB Name,Month\n"${formData.State}","${formData.SS_Name}","${formData.DB_Name}","${formData.Month}"\n\n`;
 
-  csvContent += `Category,Item,MRP,Opening,Closing\n`;
+  csvContent += `Category,Item,MRP,Opening,Purchase,Sales\n`;
   formData.stocks.forEach(stock => {
-    csvContent += `"${stock.Category}","${stock.Item}",${stock.Mrp},"${stock.Opening}","${stock.Closing}"\n`;
+    csvContent += `"${stock.Category}","${stock.Item}",${stock.Mrp},"${stock.Opening}","${stock.Purchase}","${stock.Sales}"\n`;
   });
 
   const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
