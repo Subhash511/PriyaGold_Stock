@@ -1,4 +1,828 @@
 {
+    "Gujarat": {
+        "ANJANI PUTRA MARKETING": {
+            "AADIL ENTERPRISE, DHANDHUKA": {
+                "password": 8803
+            },
+            "AAYATFS TRADING PRIVATE LIMITED, SARKHEJ": {
+                "password": 4868
+            },
+            "ASHOKA FOODS & BEVERAGES - AHMEDABAD": {
+                "password": 2896
+            },
+            "BHAGVATILAL V SHAH, K'BAT (PG)": {
+                "password": 2648
+            },
+            "BHAVESH SALES AGNCY, KHEDA (S)": {
+                "password": 6941
+            },
+            "CHEHAR KRUPA MARKETING G,NAGAR": {
+                "password": 3782
+            },
+            "DEV MARKETING - A'BD": {
+                "password": 8364
+            },
+            "DHRUTI SALES": {
+                "password": 8403
+            },
+            "IMRAN SAELS BALASINOR": {
+                "password": 1357
+            },
+            "JALARAM ENERPRISE, DHOLKA": {
+                "password": 6955
+            },
+            "JANVI ENTERPRISE, KATHLAL": {
+                "password": 5861
+            },
+            "KASWA SALES A,BAD(S)": {
+                "password": 7377
+            },
+            "KHODIYAR SALES , KALOL": {
+                "password": 8029
+            },
+            "KHODIYAR SALES , VIRAMGAM (TAXABLE)": {
+                "password": 5389
+            },
+            "KHYATI TRADING, SHAHPUR": {
+                "password": 8038
+            },
+            "MAA KRUPA AGENCY - BARWALA": {
+                "password": 6986
+            },
+            "MADHALI SALES": {
+                "password": 5161
+            },
+            "MAHESH TRADERS, BAWLA": {
+                "password": 6080
+            },
+            "MMS TRADING CO, VATVA ABAD": {
+                "password": 7421
+            },
+            "NEW VAIBHAV AGENCY, UMRETH": {
+                "password": 8670
+            },
+            "OM AGENCY ,ANAND": {
+                "password": 3229
+            },
+            "PEE BEE MARKETING, SANAND": {
+                "password": 7939
+            },
+            "POOJA TRADERS": {
+                "password": 8561
+            },
+            "RAHUL R. TRADERS A,BAD": {
+                "password": 6752
+            },
+            "RELIANCE RETAIL LTD SURAT DC": {
+                "password": 2597
+            },
+            "ROMANI TRADERS, NADIAD(S)": {
+                "password": 3053
+            },
+            "S.K.ENTETRPRISE": {
+                "password": 1293
+            },
+            "SAHARA SALES AGENCY": {
+                "password": 6647
+            },
+            "SHIVSHAKTI TRADERS": {
+                "password": 3988
+            },
+            "SHREE AKSHAR AGENCY, VASNA BORSAD": {
+                "password": 3557
+            },
+            "SHREE KRISHNA SALES": {
+                "password": 6973
+            },
+            "SIDHESHWARI SALES": {
+                "password": 2893
+            },
+            "SRI RAM SHYAM TRADING CO": {
+                "password": 3806
+            },
+            "Shree Vahanvati sales": {
+                "password": 7670
+            },
+            "V N TRADERS": {
+                "password": 7628
+            }
+        },
+        "ASHOK TRADERS": {
+            "ALPHA SALES": {
+                "password": 3050
+            },
+            "APSARA SALES AGENCY": {
+                "password": 4808
+            },
+            "ASHOK TRADERS": {
+                "password": 1988
+            },
+            "BABARAMDEV SALES": {
+                "password": 2609
+            },
+            "BHAGWATI TREDARS": {
+                "password": 8520
+            },
+            "GUJRAT SALES AGENCY": {
+                "password": 8186
+            },
+            "HINGALAJ SALES AGENCY": {
+                "password": 7603
+            },
+            "KAILASH SALESH": {
+                "password": 2714
+            },
+            "MELADY PROVISION": {
+                "password": 1589
+            },
+            "MELODY SALES": {
+                "password": 6788
+            },
+            "PUJA ENTERPRISE": {
+                "password": 4504
+            },
+            "SHAKTI SALES AGENCY": {
+                "password": 4334
+            },
+            "SHREE GANESH SALES AGENCY": {
+                "password": 5779
+            },
+            "VIJAY PAN": {
+                "password": 2753
+            },
+            "VIR KRUPA SALES AGENCY": {
+                "password": 2949
+            }
+        },
+        "C.J.Malaviya & Co.": {
+            "BHOLE SALES AGENCY": {
+                "password": 8001
+            },
+            "BOMBAY AGENCY (CONFI)": {
+                "password": 4004
+            },
+            "DEV DISTRIBUTORS": {
+                "password": 3960
+            },
+            "GAYATRI MARKETIG": {
+                "password": 3965
+            },
+            "HARIOM PROVISION STORE": {
+                "password": 5693
+            },
+            "HITESH NANDLAL": {
+                "password": 7014
+            },
+            "JALARAM AGENCIES": {
+                "password": 4760
+            },
+            "JALIYAN AGENCY": {
+                "password": 8855
+            },
+            "JALYAN SALES": {
+                "password": 2827
+            },
+            "JAY DWARKADHISH SALES AGENCY": {
+                "password": 3589
+            },
+            "KAMLESH NOVELTY-BATVA": {
+                "password": 8501
+            },
+            "KANTARIYA AGENCY": {
+                "password": 4844
+            },
+            "M/S VIRJIBHAI MULCHANDBHAI": {
+                "password": 2150
+            },
+            "MAHESH STORE": {
+                "password": 2677
+            },
+            "MASHRU GENERAL STORE": {
+                "password": 2845
+            },
+            "PARTH MART": {
+                "password": 4856
+            },
+            "PRAKESH AGENCY": {
+                "password": 4968
+            },
+            "PRERNA AGENCY": {
+                "password": 8199
+            },
+            "R.K.ENTERPRISE": {
+                "password": 7714
+            },
+            "RADHE ENTERPRISE": {
+                "password": 4733
+            },
+            "RAJ MARKETING": {
+                "password": 6239
+            },
+            "SAHJANAND SALES": {
+                "password": 4076
+            },
+            "SAHYOG SALES": {
+                "password": 1977
+            },
+            "SHIVAM TRADERS": {
+                "password": 6891
+            },
+            "SHREE GANESH AGENCY": {
+                "password": 6942
+            },
+            "SHREE MARUTI BOTTLING": {
+                "password": 8646
+            },
+            "SHREE VALLABH ENTERPRISE": {
+                "password": 3989
+            },
+            "SOMNATH MARKETING": {
+                "password": 5973
+            },
+            "YASH ENTERPRISE": {
+                "password": 2629
+            },
+            "ZULELA PROVISION STORE": {
+                "password": 6366
+            }
+        },
+        "FARR AYO DISTRIBUTION": {
+            "A.K MARKETING": {
+                "password": 7413
+            },
+            "AASAM TEA CENTER": {
+                "password": 8543
+            },
+            "GOOD LUCK AGENCY": {
+                "password": 2289
+            },
+            "HARSHITA TRADERS": {
+                "password": 3120
+            },
+            "JALARAM TRADERS": {
+                "password": 1777
+            },
+            "M.M AGENCY": {
+                "password": 8469
+            },
+            "OLIVIA": {
+                "password": 3357
+            },
+            "PARAS TRADING CORPORATION": {
+                "password": 8967
+            },
+            "SAHARA AGENCY": {
+                "password": 8796
+            },
+            "SHALIMAR TRADERS": {
+                "password": 5543
+            },
+            "SIDDHARTH SALES AGENCY": {
+                "password": 2863
+            },
+            "Shri Sai Traders": {
+                "password": 6516
+            },
+            "VEER MARKETING": {
+                "password": 7994
+            },
+            "VRUNDA ENTERPRISE": {
+                "password": 3998
+            },
+            "ZAM ZAM STORE": {
+                "password": 6918
+            }
+        },
+        "ISHAN MARKETING": {
+            "AMBIKA SALES AGNCY": {
+                "password": 5034
+            },
+            "ANGEL ENTERPRISE": {
+                "password": 7946
+            },
+            "ASHARFI SALES": {
+                "password": 7994
+            },
+            "BHAGYA LAXMI SALES": {
+                "password": 4205
+            },
+            "BHERUNATH SALES": {
+                "password": 2930
+            },
+            "CHIRAG DISTRIBUTORS": {
+                "password": 4578
+            },
+            "DIVYA SALES": {
+                "password": 8010
+            },
+            "EVAREST ENTERPRISE": {
+                "password": 4864
+            },
+            "GANDHI AGANCY": {
+                "password": 5173
+            },
+            "GANESH ENTERPRISE": {
+                "password": 3299
+            },
+            "GAYTRI PIPERMENT STORES": {
+                "password": 7782
+            },
+            "GURUDEV MARKETING": {
+                "password": 8694
+            },
+            "GURUKIRPA STORE": {
+                "password": 3954
+            },
+            "Gokul sales": {
+                "password": 4303
+            },
+            "JAI AMBEY SALES": {
+                "password": 6611
+            },
+            "JAI GOGA SALES": {
+                "password": 6680
+            },
+            "M.V.MARKETING": {
+                "password": 3333
+            },
+            "MAHAVEER SALES AGENCY": {
+                "password": 3614
+            },
+            "MEGHDOOT SALES": {
+                "password": 8106
+            },
+            "PADMAVATI SALES": {
+                "password": 5787
+            },
+            "PARMESWARY SALES": {
+                "password": 5772
+            },
+            "RADHEY MALL": {
+                "password": 6405
+            },
+            "SHIV SALES AGENCY": {
+                "password": 4132
+            },
+            "TIRUPATI SALES": {
+                "password": 6447
+            }
+        },
+        "JOSHI ENTERPRISES": {
+            "A.S MARKETING": {
+                "password": 1424
+            },
+            "AAKASH MARKETIMG": {
+                "password": 7385
+            },
+            "Countar Sale": {
+                "password": 2892
+            },
+            "DEVKINANDAN TRADERS. KALOL": {
+                "password": 8680
+            },
+            "I A JOSHI": {
+                "password": 5321
+            },
+            "IRFAN KIRANA STORE": {
+                "password": 4118
+            },
+            "KHUSI ENTERPRISE": {
+                "password": 1421
+            },
+            "KRISNA AGENCY. LIMKHEDA": {
+                "password": 5952
+            },
+            "MEHTA SALES": {
+                "password": 8184
+            },
+            "MOIZ AGENCY.DAHOD": {
+                "password": 1989
+            },
+            "MUSTUFA TRADARES.ZALOD": {
+                "password": 6484
+            },
+            "ROYAL SALES.LUNAWADA": {
+                "password": 1838
+            },
+            "SHREE PARSHVANATH TRADING": {
+                "password": 5026
+            },
+            "Satnam & maheswari sales": {
+                "password": 7799
+            },
+            "TARACHANDRA PRADEPKUMAR AGRAWAL. FATEPURA": {
+                "password": 3400
+            }
+        },
+        "KHEMANI ENETRPRISES (CONF)": {
+            "AJAB SALES AGENCY": {
+                "password": 2317
+            },
+            "ASGARKHAN PATHAN": {
+                "password": 7193
+            },
+            "BHUMISHA SALES": {
+                "password": 4946
+            },
+            "CHANDAN JYOTI AGENCY": {
+                "password": 4714
+            },
+            "DHANLAXMI MARKETING": {
+                "password": 5565
+            },
+            "DHANLAXMI SALES AGENCY": {
+                "password": 2638
+            },
+            "DIVINE MARKETING": {
+                "password": 4004
+            },
+            "DOLLY ENTERPRISES": {
+                "password": 2023
+            },
+            "EVER GREEN GEN STORE": {
+                "password": 8134
+            },
+            "FIRST STEP MARKETING": {
+                "password": 4822
+            },
+            "HARIOM TRADING": {
+                "password": 7064
+            },
+            "HARSH MARKETING": {
+                "password": 1837
+            },
+            "JAY SIDDHNATH TRADING": {
+                "password": 8134
+            },
+            "MAHADEV AGENCY": {
+                "password": 7576
+            },
+            "MAHALAXMI AGENCY": {
+                "password": 2537
+            },
+            "MEET ENTERPRISES": {
+                "password": 1518
+            },
+            "MOMA JI AGENCY": {
+                "password": 4283
+            },
+            "MOTHER TEA AND AGRO FOODS COMPANY": {
+                "password": 7549
+            },
+            "MS MARKETING": {
+                "password": 3333
+            },
+            "NAVKAR AGENCY": {
+                "password": 2070
+            },
+            "PURNIMA AGENCY": {
+                "password": 7464
+            },
+            "RAJVEER AGENCY": {
+                "password": 2651
+            },
+            "SAHAJ ENTERPRISES": {
+                "password": 3768
+            },
+            "SAI RANG AGENCY": {
+                "password": 4361
+            },
+            "SHREE KRISHNA MARKETING": {
+                "password": 8011
+            },
+            "SHREE RADHE KRISHNA TRADING": {
+                "password": 2871
+            },
+            "SHREE RISHABH TRADING CO.": {
+                "password": 2401
+            }
+        },
+        "PARSHVANATH SALES AGENCY": {
+            "Apna Provision Store": {
+                "password": 7528
+            },
+            "BHARAT SALES": {
+                "password": 8457
+            },
+            "DELUXE SALES AGENCY": {
+                "password": 8410
+            },
+            "DESAI TRADING CO.": {
+                "password": 2961
+            },
+            "GUJRAT SALES AGENCY": {
+                "password": 2871
+            },
+            "HUSSAINBHAI SALES": {
+                "password": 2855
+            },
+            "MAA ENTERPRISE": {
+                "password": 6262
+            },
+            "PANDIYA MARKETING": {
+                "password": 5600
+            },
+            "SHIV SALES": {
+                "password": 8837
+            },
+            "VINAY SALES AGENCY": {
+                "password": 7746
+            },
+            "VIVAN ENTERPRISE": {
+                "password": 6719
+            }
+        },
+        "PROLINE SALES AGENCY": {
+            "AJAB SALES AGENCY": {
+                "password": 6131
+            },
+            "ASGARKHAN PATHAN": {
+                "password": 5498
+            },
+            "CHANDAN JYOTI AGENCY": {
+                "password": 6263
+            },
+            "DHANLAXMI MARKETING": {
+                "password": 6172
+            },
+            "DHANLAXMI SALES AGENCY": {
+                "password": 3243
+            },
+            "DOLLY ENTERPRISES": {
+                "password": 3155
+            },
+            "EVER GREEN GEN STORE": {
+                "password": 3061
+            },
+            "H.N.FOOD": {
+                "password": 3584
+            },
+            "HARIOM TRADING": {
+                "password": 5812
+            },
+            "JAY SIDDHNATH AGENCY": {
+                "password": 1533
+            },
+            "MAHADEV AGENCY": {
+                "password": 8376
+            },
+            "MAHALAXMI AGENCY": {
+                "password": 2873
+            },
+            "MOMA JI AGENCY": {
+                "password": 6959
+            },
+            "MOTHER TEA AND AGRO FOODS COMPANY": {
+                "password": 5688
+            },
+            "MS MARKETING": {
+                "password": 3026
+            },
+            "Meet enterprises": {
+                "password": 5518
+            },
+            "NAVKAR AGENCY": {
+                "password": 3920
+            },
+            "PURNIMA AGENCY": {
+                "password": 7962
+            },
+            "RAJVEER AGENCY": {
+                "password": 7179
+            },
+            "SAHAJ ENTERPRISES": {
+                "password": 2991
+            },
+            "SAI RANG AGENCY": {
+                "password": 4857
+            },
+            "SHREE KRISHNA MARKETING": {
+                "password": 6558
+            },
+            "SHREE MODHESVARI AGENCIES": {
+                "password": 6285
+            },
+            "SHREE RADHE KRISHNA TRADING": {
+                "password": 7237
+            },
+            "SHREE RISHABH TRADING CO.": {
+                "password": 2128
+            }
+        },
+        "RAJ SALES": {
+            "ANCHOR MARKETING": {
+                "password": 8506
+            },
+            "ANSH ENTERPRISE": {
+                "password": 2179
+            },
+            "Giriraj enterprise": {
+                "password": 4869
+            },
+            "KHODIYAR SALES AGENCY": {
+                "password": 2968
+            },
+            "LUCKY AGENCY": {
+                "password": 3527
+            },
+            "MOTLANI BROTHERS": {
+                "password": 5214
+            },
+            "PATEL BROTHERS": {
+                "password": 8473
+            },
+            "SHARNAM TRADERS": {
+                "password": 3592
+            },
+            "SHREE CHAMUNDA ENTERPRISE": {
+                "password": 4338
+            }
+        },
+        "SHREE JI ENTERPRISES": {
+            "ANJLI PAN": {
+                "password": 6787
+            },
+            "APNA SALES": {
+                "password": 3118
+            },
+            "BHUMI ENTERPRSE": {
+                "password": 1933
+            },
+            "Babji sales agency": {
+                "password": 8372
+            },
+            "CHATRBHUJ BHAGVANJI": {
+                "password": 7598
+            },
+            "DAMAN SALES": {
+                "password": 8068
+            },
+            "DAVE GENERAL STORE": {
+                "password": 1540
+            },
+            "DIVY SALES AGENCY": {
+                "password": 4394
+            },
+            "FAVIORITE STORE": {
+                "password": 6878
+            },
+            "GANESH ENTERPRISE": {
+                "password": 2825
+            },
+            "GOKUL STORE": {
+                "password": 5365
+            },
+            "HARI OM SALES": {
+                "password": 6124
+            },
+            "JALARAM AGENCY": {
+                "password": 3947
+            },
+            "JALARAM GRUH UDHYOG": {
+                "password": 3709
+            },
+            "JALARAM SALES AGENCY": {
+                "password": 6368
+            },
+            "KHUSHBU AGENCY": {
+                "password": 5962
+            },
+            "KUMKUM AGENCY": {
+                "password": 6308
+            },
+            "MAHALAXMI ENTERPRISE": {
+                "password": 7193
+            },
+            "MANISH PROVITION STORE": {
+                "password": 5432
+            },
+            "MANMEET STORE": {
+                "password": 7601
+            },
+            "MANN ENTERPRISE": {
+                "password": 8812
+            },
+            "MISHRI ENTERPRISE": {
+                "password": 3244
+            },
+            "MOHAN TRDERS": {
+                "password": 3767
+            },
+            "Momai sales agency": {
+                "password": 3498
+            },
+            "OM TRDERS": {
+                "password": 5348
+            },
+            "PARAG TRDING": {
+                "password": 8894
+            },
+            "PINDAR SALES": {
+                "password": 8623
+            },
+            "RAJA MARKETING": {
+                "password": 1735
+            },
+            "RAJESH SEASON STORE": {
+                "password": 1499
+            },
+            "SHAKTI SALES": {
+                "password": 3590
+            },
+            "SHREENATHJI ENTERPRISE": {
+                "password": 4041
+            },
+            "SHREENATHJI SALES": {
+                "password": 3901
+            },
+            "SIDDHI SALES": {
+                "password": 6327
+            },
+            "TAJ AGENCY": {
+                "password": 4263
+            },
+            "UMA SALES": {
+                "password": 5908
+            },
+            "VEKRIYA ENTERPRISE": {
+                "password": 7693
+            },
+            "VINOD SALE": {
+                "password": 3120
+            },
+            "shree ji marketing": {
+                "password": 4829
+            }
+        },
+        "SOMNATH JI TRADERS": {
+            "ALBURHANI AGENCY": {
+                "password": 5918
+            },
+            "ASHAPURA AGENCY": {
+                "password": 5357
+            },
+            "ASHAPURA ENTERPRISE": {
+                "password": 5336
+            },
+            "GOYAL AGENCY": {
+                "password": 2918
+            },
+            "HARIOM AGENCY": {
+                "password": 3089
+            },
+            "JAI TRADERS": {
+                "password": 5068
+            },
+            "JALARAM AGENCY": {
+                "password": 6008
+            },
+            "JASHRAJ TRADERS": {
+                "password": 2333
+            },
+            "KARIYA AGENCY": {
+                "password": 7288
+            },
+            "KHUSHI SALES AGENCY": {
+                "password": 8513
+            },
+            "KIRTIKUMAR&BROTHER": {
+                "password": 1627
+            },
+            "KISAN TRADERS": {
+                "password": 3501
+            },
+            "KOMAL AGENCY": {
+                "password": 5055
+            },
+            "KUTCH ENTERPRISE": {
+                "password": 5999
+            },
+            "MANAV ENTERPRISE": {
+                "password": 6720
+            },
+            "RAHUL AGENCY": {
+                "password": 4808
+            },
+            "RONAK AGENCY": {
+                "password": 5967
+            },
+            "RUDRAX AGENCY": {
+                "password": 3243
+            },
+            "SHIV PARAS PAN BHANDAR": {
+                "password": 2192
+            },
+            "SHREE ASHAPURA AGENCY": {
+                "password": 5665
+            },
+            "SHRI RAM AGENCY": {
+                "password": 3023
+            },
+            "Sundip bhai": {
+                "password": 2774
+            }
+        }
+    },
     "Maharashtra": {
         "ADHIRA AGENCY ": {
             "Gandhade Agency": {
@@ -27,35 +851,17 @@
             }
         },
         "AJINKYA TRADERS": {
-            "Balaji Enterprises": {
-                "password": 4936
-            },
             "Ganesh Farsan Mart": {
                 "password": 7107
-            },
-            "Manohar Transport Chiplun": {
-                "password": 9988
             },
             "Radha Krishna Agency": {
                 "password": 1838
             },
-            "SALESHWAR YAKSHINI AGENCY": {
-                "password": 8255
-            },
             "Sai Enterprises": {
                 "password": 3226
             },
-            "Shree Enterprises": {
-                "password": 4959
-            },
-            "Shree Swami Samarth Enterprises Malvan": {
-                "password": 6655
-            },
             "Shri Bhagwati Enterprises": {
                 "password": 8423
-            },
-            "Shri Swami Samarth Enterprises": {
-                "password": 8954
             },
             "Shri Yogeshwari Agency": {
                 "password": 7741
@@ -109,11 +915,14 @@
             "Gajanan grain store": {
                 "password": 2516
             },
+            "KIran Enterprises": {
+                "password": 4444
+            },
             "KUMAR STORES": {
                 "password": 8504
             },
-            "Lalji Sales": {
-                "password": 7766
+            "Lalji sales": {
+                "password": 5555
             },
             "NILAM AGENCY": {
                 "password": 7156
@@ -243,12 +1052,6 @@
             "OM TRADING CO": {
                 "password": 8437
             },
-            "SHREE KRISHNA": {
-                "password": 4110
-            },
-            "SHREE KRISHNA ENTERPRISES": {
-                "password": 2345
-            },
             "SHREE SAINATH AGENCIES": {
                 "password": 6449
             },
@@ -259,15 +1062,32 @@
                 "password": 8538
             }
         },
+        "Navinya Enterprises": {
+            "Balaji Enterprises": {
+                "password": 4936
+            },
+            "SALESHWAR YAKSHINI AGENCY": {
+                "password": 8255
+            },
+            "SHREE GANESH RAMESH PARKAR": {
+                "password": 5555
+            },
+            "Shree Enterprises": {
+                "password": 4959
+            },
+            "Shree Swami Samarth Enterprises-Malvan": {
+                "password": 4567
+            },
+            "Shri Swami Samarth Enterprises": {
+                "password": 8954
+            }
+        },
         "OPTIMIZE CRUSDER": {
             "NaKshtra agency": {
                 "password": 2976
             },
             "S & S traders": {
                 "password": 5121
-            },
-            "Shri satta traders": {
-                "password": 4380
             },
             "Sp agency": {
                 "password": 4916
@@ -361,9 +1181,6 @@
             "New Sharada Stores Kolhapur": {
                 "password": 6083
             },
-            "Prabhat trading co": {
-                "password": 3344
-            },
             "RUTUJA AGENCIES": {
                 "password": 8352
             },
@@ -418,96 +1235,7 @@
                 "password": 8843
             }
         },
-        "SAKSHI AGENCY": {
-            "A.B.AGENCIES ( Pg-Rajguru Nagar )": {
-                "password": 3815
-            },
-            "ADHIRA AGENCY - PG": {
-                "password": 5474
-            },
-            "AJINKAYA BAZAR ( PG- Baramati )": {
-                "password": 7580
-            },
-            "ATHARVA DISTRIBUTOR ( P.G )": {
-                "password": 4781
-            },
-            "ATHARVA DISTRIBUTORS ( P.G JUNNAR )": {
-                "password": 1361
-            },
-            "Agarwal and company": {
-                "password": 4764
-            },
-            "C.J.PARDESHI ( PG )": {
-                "password": 5516
-            },
-            "J K ENTERPRISES ( PG NARAYANGAON )": {
-                "password": 6852
-            },
-            "K. MART ( PG - Baramati )": {
-                "password": 6223
-            },
-            "KEWAL & CO ( PG )": {
-                "password": 8119
-            },
-            "KRISHNA AGENCIES ( PG )": {
-                "password": 7253
-            },
-            "MR.GAIKWAD": {
-                "password": 1875
-            },
-            "PRABHAT AGENCIES ( PG )": {
-                "password": 8664
-            },
-            "S.M Enterprise": {
-                "password": 7307
-            },
-            "SAINIK CANTEENS ( PG - SASWAD)": {
-                "password": 5839
-            },
-            "SHAHEEN ENTERPRISES(PG)": {
-                "password": 6574
-            },
-            "SHREE DATTA AGENCY ( PG )": {
-                "password": 5066
-            },
-            "SHRI GANESH AGENCIES (PG Bhosari )": {
-                "password": 2286
-            },
-            "SP TRADERS ( PG -BARAMATI)": {
-                "password": 4933
-            },
-            "SUPERMART STORES ( PG-BHOSRI)": {
-                "password": 1883
-            },
-            "SWAMI SAMARTH AGENCY ( PG - Baramati )": {
-                "password": 4329
-            },
-            "Sai samrth hojiyeri": {
-                "password": 8244
-            },
-            "Shree kulswamini distributors": {
-                "password": 4071
-            },
-            "TAJ SWEET ( PG - Malegaon)": {
-                "password": 5816
-            },
-            "TIRUPATI AGENCIES ( PG )": {
-                "password": 1474
-            },
-            "TRIDEV AGENCYS ( PG )": {
-                "password": 8578
-            },
-            "VIJAY HOLSALE - PG": {
-                "password": 5750
-            },
-            "YASHRAJ MARKETING ( PG-Daund )": {
-                "password": 6010
-            },
-            "bhumi enterprises": {
-                "password": 5490
-            }
-        },
-        "SHREE DATTA AGENCY ": {
+        "SHREE DATTA AGENCY": {
             "AISHWARYA DISTRIBUTORS": {
                 "password": 8750
             },
@@ -680,9 +1408,160 @@
             "VINAYAK AGENCY": {
                 "password": 4901
             }
+        },
+        "shree krishna Marketing": {
+            "A.B.AGENCIES ( Pg-Rajguru Nagar )": {
+                "password": 3815
+            },
+            "ADHIRA AGENCY - PG": {
+                "password": 5474
+            },
+            "AJINKAYA BAZAR ( PG- Baramati )": {
+                "password": 7580
+            },
+            "ATHARVA DISTRIBUTOR ( P.G )": {
+                "password": 4781
+            },
+            "ATHARVA DISTRIBUTORS ( P.G JUNNAR )": {
+                "password": 1361
+            },
+            "Agarwal and company": {
+                "password": 4764
+            },
+            "C.J.PARDESHI ( PG )": {
+                "password": 5516
+            },
+            "J K ENTERPRISES ( PG NARAYANGAON )": {
+                "password": 6852
+            },
+            "K. MART ( PG - Baramati )": {
+                "password": 6223
+            },
+            "KEWAL & CO ( PG )": {
+                "password": 8119
+            },
+            "KRISHNA AGENCIES ( PG )": {
+                "password": 7253
+            },
+            "MR.GAIKWAD": {
+                "password": 1875
+            },
+            "PRABHAT AGENCIES ( PG )": {
+                "password": 8664
+            },
+            "S.M Enterprise": {
+                "password": 7307
+            },
+            "SAINIK CANTEENS ( PG - SASWAD)": {
+                "password": 5839
+            },
+            "SHAHEEN ENTERPRISES(PG)": {
+                "password": 6574
+            },
+            "SHREE DATTA AGENCY ( PG )": {
+                "password": 5066
+            },
+            "SHRI GANESH AGENCIES (PG Bhosari )": {
+                "password": 2286
+            },
+            "SP TRADERS ( PG -BARAMATI)": {
+                "password": 4933
+            },
+            "SUPERMART STORES ( PG-BHOSRI)": {
+                "password": 1883
+            },
+            "SWAMI SAMARTH AGENCY ( PG - Baramati )": {
+                "password": 4329
+            },
+            "Sai samrth hojiyeri": {
+                "password": 8244
+            },
+            "Shree kulswamini distributors": {
+                "password": 4071
+            },
+            "TAJ SWEET ( PG - Malegaon)": {
+                "password": 5816
+            },
+            "TIRUPATI AGENCIES ( PG )": {
+                "password": 1474
+            },
+            "TRIDEV AGENCYS ( PG )": {
+                "password": 8578
+            },
+            "VIJAY HOLSALE - PG": {
+                "password": 5750
+            },
+            "YASHRAJ MARKETING ( PG-Daund )": {
+                "password": 6010
+            },
+            "bhumi enterprises": {
+                "password": 5490
+            }
         }
     },
     "Rajasthan": {
+        "AGRAWAL TRADERS": {
+            "AADI ENTERPRISES": {
+                "password": 3542
+            },
+            "AGARWAL TRADERS": {
+                "password": 5689
+            },
+            "ARHAM ENTERPRISES": {
+                "password": 8128
+            },
+            "Alamdar General Store": {
+                "password": 6754
+            },
+            "Arihant Enetrprises": {
+                "password": 4752
+            },
+            "DRIP AGENCIES": {
+                "password": 3345
+            },
+            "EKLINGHNATH ENTERPRISES": {
+                "password": 6254
+            },
+            "HIND AGENCY": {
+                "password": 8466
+            },
+            "Jai Pal store": {
+                "password": 3904
+            },
+            "KAILASH TRADING": {
+                "password": 7664
+            },
+            "KHANEYA TRADERS": {
+                "password": 2218
+            },
+            "LIFTIP TEA GROUP": {
+                "password": 4433
+            },
+            "NARVARIA AGENCY": {
+                "password": 4368
+            },
+            "PALIWAL MARKETING": {
+                "password": 2445
+            },
+            "RAMDEV TRADERS": {
+                "password": 8208
+            },
+            "ROYAL AGENCY": {
+                "password": 4360
+            },
+            "SHREE RAM KIRANA STORE": {
+                "password": 5320
+            },
+            "SHRI BALAJI TRADERS": {
+                "password": 7127
+            },
+            "SUNIL TRADERS": {
+                "password": 4415
+            },
+            "Tejaswi Enterprises": {
+                "password": 3663
+            }
+        },
         "Arvind Agency": {
             "AGRAWAL TRADERS": {
                 "password": 3025
@@ -692,6 +1571,9 @@
             },
             "AVNI GENERAL STORE": {
                 "password": 2541
+            },
+            "Ariyant Marketing": {
+                "password": 8087
             },
             "BANSBANSIWALA TRADING COMPANY": {
                 "password": 4695
@@ -722,6 +1604,9 @@
             },
             "RAKESH KUMAR UTTAM CHAND KIRANA STORE": {
                 "password": 4487
+            },
+            "SHREE GAJANAND HARISH KUMAR": {
+                "password": 6104
             },
             "VINITA GENERAL STORE": {
                 "password": 3442
@@ -819,7 +1704,7 @@
                 "password": 9988
             }
         },
-        "D.V TRADING": {
+        "DV TRADING COMPANY": {
             "AGGARWAL TRADERS": {
                 "password": 3233
             },
@@ -865,7 +1750,7 @@
             "KHICHAR TRADING CO.": {
                 "password": 2308
             },
-            "KUM KUM SALES": {
+            "KUMKUM SALES": {
                 "password": 6076
             },
             "Kataria Brothers": {
@@ -898,7 +1783,7 @@
             "SAHIL AGENCY": {
                 "password": 8748
             },
-            "SAINI ENTER.": {
+            "SAINI ENTERPRISES": {
                 "password": 5684
             },
             "SETH SANWARIA TRADING COMPANY": {
@@ -1003,6 +1888,9 @@
             },
             "SHRI VARDHMAN AGENCIES": {
                 "password": 5865
+            },
+            "SORABH TRADING COMPANY": {
+                "password": 3328
             },
             "VIPIN ENTERPRISES": {
                 "password": 5345
@@ -1163,6 +2051,9 @@
             "AGARWAL SWEET": {
                 "password": 5358
             },
+            "Agarwal general store": {
+                "password": 3768
+            },
             "BAJRANG AGENCY - NAPASAR": {
                 "password": 3532
             },
@@ -1174,6 +2065,9 @@
             },
             "KARNI AGENCIES - CHOUDHARY COLONY": {
                 "password": 8887
+            },
+            "Kripa Bherunath -": {
+                "password": 4322
             },
             "RAJ SHREE ENTERPRISES - DUNGARGARH": {
                 "password": 6961
@@ -1262,11 +2156,17 @@
             },
             "SARSWATI KIRANA & GENERAL STORE": {
                 "password": 3638
+            },
+            "TIP TOP AGENCY": {
+                "password": 6392
             }
         },
         "Palak Agency": {
             "AJAY AGENCY": {
                 "password": 7617
+            },
+            "Deepak Agency": {
+                "password": 1309
             },
             "GAURAV AGENCIES": {
                 "password": 5151
@@ -1316,6 +2216,9 @@
             "SHREE SHYAM AGENCY": {
                 "password": 2637
             },
+            "SHREEKANT AND CO.": {
+                "password": 5012
+            },
             "SINGH TRADERS": {
                 "password": 2407
             },
@@ -1339,62 +2242,6 @@
             },
             "radha soami agency": {
                 "password": 7071
-            }
-        },
-        "Pragati Enterprises": {
-            "AADI ENTERPRISES": {
-                "password": 3542
-            },
-            "AGARWAL TRADERS": {
-                "password": 5689
-            },
-            "ARHAM ENTERPRISES": {
-                "password": 8128
-            },
-            "Arihant Enetrprises": {
-                "password": 4752
-            },
-            "DRIP AGENCIES": {
-                "password": 3345
-            },
-            "EKLINGHNATH ENTERPRISES": {
-                "password": 6254
-            },
-            "HIND AGENCY": {
-                "password": 8466
-            },
-            "Jai Pal store": {
-                "password": 3904
-            },
-            "KAILASH TRADING": {
-                "password": 7664
-            },
-            "KHANEYA TRADERS": {
-                "password": 2218
-            },
-            "NARVARIA AGENCY": {
-                "password": 4368
-            },
-            "PALIWAL MARKETING": {
-                "password": 2445
-            },
-            "RAMDEV TRADERS": {
-                "password": 8208
-            },
-            "ROYAL AGENCY": {
-                "password": 4360
-            },
-            "SHREE RAM KIRANA STORE": {
-                "password": 5320
-            },
-            "SHRI BALAJI TRADERS": {
-                "password": 7127
-            },
-            "SUNIL TRADERS": {
-                "password": 4415
-            },
-            "Tejaswi Enterprises": {
-                "password": 3663
             }
         },
         "RAJLAXMI ENTERPRISES": {
@@ -1466,6 +2313,9 @@
             "Kgn confectionary Bhagor": {
                 "password": 7169
             },
+            "Krishna Sweets": {
+                "password": 4824
+            },
             "MUKESH KIRANA RAILA": {
                 "password": 2008
             },
@@ -1493,7 +2343,7 @@
             "Vardhman general store": {
                 "password": 3110
             },
-            "Vardhman general store karera": {
+            "Vardhman karera": {
                 "password": 2818
             },
             "Yesh jain": {
@@ -1632,7 +2482,7 @@
             "SUFI AGENCY": {
                 "password": 4360
             },
-            "Sharma trading company": {
+            "Seema Suraksha Bal Ex-Men Canteen": {
                 "password": 2548
             },
             "Shri Diwaker Agencies": {
@@ -1643,6 +2493,95 @@
             },
             "VIKAS TRADING": {
                 "password": 2107
+            }
+        },
+        "SIDDHI VINAYAK SALES": {
+            "AGARWAL AGENCIES": {
+                "password": 2813
+            },
+            "AMIT KIRANA AND GENRAL STORE": {
+                "password": 7834
+            },
+            "ARIHANT TRADERS": {
+                "password": 7592
+            },
+            "Anshika Enterprises [ PAOTA ]": {
+                "password": 5325
+            },
+            "BALAJI STORE": {
+                "password": 2399
+            },
+            "BISHANDAYAL TARUN KUMAR": {
+                "password": 7439
+            },
+            "GANESH AGENCY": {
+                "password": 2255
+            },
+            "HIMANSHI TRADING COMPANY": {
+                "password": 7662
+            },
+            "JSUDAY CONSUMERS PVT LTD": {
+                "password": 7658
+            },
+            "KRISHNA SALES": {
+                "password": 1858
+            },
+            "Khandelwal Agency": {
+                "password": 4729
+            },
+            "LAKSHYA TRADING COMPANY [ RAMPURA DABRI ]": {
+                "password": 6469
+            },
+            "M/S SURAJ ENTERPRISES": {
+                "password": 8094
+            },
+            "MANGAL CHAND PAWAN KUMAR AND COMPANY": {
+                "password": 4287
+            },
+            "MEENA SALES AGENCY": {
+                "password": 4727
+            },
+            "Om Mega Store (Pachar)": {
+                "password": 4848
+            },
+            "PARKESH STORE": {
+                "password": 4168
+            },
+            "RAMESH TRADERS {SAMBHAR}": {
+                "password": 2717
+            },
+            "RIDDHI SIDDHI ENTERPRISES": {
+                "password": 2941
+            },
+            "SHAHKAMBARI SALES AGENCY": {
+                "password": 3437
+            },
+            "SHIV SHAKTI ENTERPRISES": {
+                "password": 6547
+            },
+            "SHIVAY SALES": {
+                "password": 3524
+            },
+            "SHREE KALYAN TRADERS": {
+                "password": 7444
+            },
+            "SHREE KANHA AGEICNES": {
+                "password": 7542
+            },
+            "SHRI GOVINDAM STORE": {
+                "password": 7787
+            },
+            "SONI ENTERPRISES": {
+                "password": 1858
+            },
+            "Sunil kumar banwarilal": {
+                "password": 3464
+            },
+            "VIKASH AGENCY": {
+                "password": 5555
+            },
+            "VINOD DEPARTMENTAL STORE": {
+                "password": 5135
             }
         },
         "Satnam Traders": {
@@ -1678,6 +2617,12 @@
             },
             "SHYAM TRADE": {
                 "password": 4021
+            },
+            "Shree Shyam Enterprises": {
+                "password": 6676
+            },
+            "Shri Balaji Traders": {
+                "password": 8876
             },
             "TIRUPATI IMPEX": {
                 "password": 8422
@@ -1717,6 +2662,9 @@
             "SHRI VARDHMAN AGENCIES": {
                 "password": 1707
             },
+            "SORABH TRADING COMPANY": {
+                "password": 3818
+            },
             "VIPIN ENTERPRISES": {
                 "password": 3428
             }
@@ -1730,6 +2678,9 @@
             },
             "AJIT SALES": {
                 "password": 4555
+            },
+            "AJMERA AGENCIES": {
+                "password": 6364
             },
             "AMIT AGENCY": {
                 "password": 7605
@@ -1791,6 +2742,9 @@
             "OM ENTERPRISES": {
                 "password": 6063
             },
+            "RASHI AGENCIES": {
+                "password": 2731
+            },
             "S.R. ENTERPRISES": {
                 "password": 6810
             },
@@ -1809,94 +2763,14 @@
             "SOURABH AGENCY": {
                 "password": 7942
             },
+            "Sakshi Kirana Store": {
+                "password": 7651
+            },
+            "Sameer and brothers": {
+                "password": 6817
+            },
             "YASH KIRANA\u00a0 SUMERGANJ MANDI": {
                 "password": 8103
-            }
-        },
-        "Siddhi Vinayak Sales": {
-            "AGARWAL AGENCIES": {
-                "password": 2813
-            },
-            "AMIT KIRANA AND GENRAL STORE": {
-                "password": 7834
-            },
-            "ARIHANT TRADERS": {
-                "password": 7592
-            },
-            "Anshika Enterprises [ PAOTA ]": {
-                "password": 5325
-            },
-            "BALAJI STORE": {
-                "password": 2399
-            },
-            "BISHANDAYAL TARUN KUMAR": {
-                "password": 7439
-            },
-            "GANESH AGENCY": {
-                "password": 2255
-            },
-            "HIMANSHI TRADING COMPANY": {
-                "password": 7662
-            },
-            "KRISHNA SALES": {
-                "password": 1858
-            },
-            "Khandelwal Agency": {
-                "password": 4729
-            },
-            "LAKSHYA TRADING COMPANY [ RAMPURA DABRI ]": {
-                "password": 6469
-            },
-            "M/S SURAJ ENTERPRISES": {
-                "password": 8094
-            },
-            "MANGAL CHAND PAWAN KUMAR AND COMPANY": {
-                "password": 4287
-            },
-            "MEENA SALES AGENCY": {
-                "password": 4727
-            },
-            "Om Mega Store (Pachar)": {
-                "password": 4848
-            },
-            "PARKESH STORE": {
-                "password": 4168
-            },
-            "RAMESH TRADERS {SAMBHAR}": {
-                "password": 2717
-            },
-            "RIDDHI SIDDHI ENTERPRISES": {
-                "password": 2941
-            },
-            "SHAHKAMBARI SALES AGENCY": {
-                "password": 3437
-            },
-            "SHIV SHAKTI ENTERPRISES": {
-                "password": 6547
-            },
-            "SHIVAY SALES": {
-                "password": 3524
-            },
-            "SHREE KALYAN TRADERS": {
-                "password": 7444
-            },
-            "SHREE KANHA AGEICNES": {
-                "password": 7542
-            },
-            "SHRI GOVINDAM STORE": {
-                "password": 7787
-            },
-            "SONI ENTERPRISES": {
-                "password": 1858
-            },
-            "Sunil kumar banwarilal": {
-                "password": 3464
-            },
-            "VIKASH AGENCY": {
-                "password": 5555
-            },
-            "VINOD DEPARTMENTAL STORE": {
-                "password": 5135
             }
         },
         "Vinod Agency": {
