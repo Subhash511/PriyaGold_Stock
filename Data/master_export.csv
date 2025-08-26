@@ -11,7 +11,7 @@ Gujarat,Anjani Putra Marketing|ACUSDA0699,Dhruti Sales|DLR00000000172688,6974
 Gujarat,Anjani Putra Marketing|ACUSDA0699,Imran Saels Balasinor|DLR00000000169901,4784
 Gujarat,Anjani Putra Marketing|ACUSDA0699,"Jalaram Enerprise, Dholka|DLR00000000169904",2937
 Gujarat,Anjani Putra Marketing|ACUSDA0699,"Janvi Enterprise, Kathlal|DLR00000000169905",9301
-Gujarat,Anjani Putra Marketing|ACUSDA0699,"Kaswa Sales A,Bad(S)|DLR00000000169918",4154
+Gujarat,Anjani Putra Marketing|ACUSDA0699,"Kaswa Sales A,Bad(S)|DLR00000000169909",4154
 Gujarat,Anjani Putra Marketing|ACUSDA0699,"Khodiyar Sales , Kalol|DLR00000000171865",5749
 Gujarat,Anjani Putra Marketing|ACUSDA0699,"Khodiyar Sales , Viramgam (Taxable)|DLR00000000169911",9445
 Gujarat,Anjani Putra Marketing|ACUSDA0699,"Khyati Trading, Shahpur|DLR00000000172234",9527
@@ -86,10 +86,12 @@ Gujarat,Farr Ayo Distribution|ACUSDF0061,Good Luck Agency|DLR00000000172701,4357
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Harshita Traders|DLR00000000173276,1931
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Jalaram Traders|DLR00000000172702,2400
 Gujarat,Farr Ayo Distribution|ACUSDF0061,M.M Agency|DLR00000000172785,3922
+Gujarat,Farr Ayo Distribution|ACUSDF0061,Mahavir Agency|DLR000000184921,9958
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Olivia|DLR00000000172781,5441
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Paras Trading Corporation|DLR00000000173196,9478
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Sahara Agency|DLR00000000172746,2025
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Shalimar Traders|DLR00000000173195,5626
+Gujarat,Farr Ayo Distribution|ACUSDF0061,Shree Ashapura Enterprise|DLR000000184897,4111
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Shri Sai Traders|DLR00000000172723,6442
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Siddharth Sales Agency|DLR00000000172786,9957
 Gujarat,Farr Ayo Distribution|ACUSDF0061,Veer Marketing|DLR00000000172699,6099
@@ -161,6 +163,7 @@ Gujarat,Khemani Enetrprises (Conf)|ACUSDK2024,Sai Rang Agency|DLR00000000172669,
 Gujarat,Khemani Enetrprises (Conf)|ACUSDK2024,Shree Krishna Marketing|DLR00000000170115,5276
 Gujarat,Khemani Enetrprises (Conf)|ACUSDK2024,Shree Radhe Krishna Trading|DLR00000000172488,1411
 Gujarat,Khemani Enetrprises (Conf)|ACUSDK2024,Shree Rishabh Trading Co.|DLR00000000169596,3174
+Gujarat,Khemani Enetrprises (Conf)|ACUSDK2024,Umiya Sales Agency|DLR000000174258,2667
 Gujarat,Parshvanath Sales Agency|ACUSDP0211,Apna Provision Store|DLR00000000173522,2680
 Gujarat,Parshvanath Sales Agency|ACUSDP0211,Bharat Sales|DLR00000000169461,9957
 Gujarat,Parshvanath Sales Agency|ACUSDP0211,Deluxe Sales Agency|DLR00000000169468,8373
@@ -327,11 +330,12 @@ Haryana,Kalyani Trading Co.|ACUSDK0087,Mayank Trading Co|DLR00000000167858,5815
 Haryana,Kalyani Trading Co.|ACUSDK0087,Sandeep Trading Co|DLR00000000170005,2025
 Haryana,Kalyani Trading Co.|ACUSDK0087,Shree Bala Ji Trading Co|DLR00000000167497,1640
 Haryana,Kalyani Trading Co.|ACUSDK0087,Vardani Co|DLR00000000167490,2025
+Haryana,Madhu Enterprises|ACUSDM0117,Ansh Enterprises|DLR000000184831,2500
 Haryana,Madhu Enterprises|ACUSDM0117,Bala Ji Agency|DLR00000000167510,2025
 Haryana,Madhu Enterprises|ACUSDM0117,Bansal Traders|DLR00000000182918,3538
 Haryana,Madhu Enterprises|ACUSDM0117,Chug Sales Agency|DLR00000000173338,4871
 Haryana,Madhu Enterprises|ACUSDM0117,Gyan Chander Rajesh Kumar|DLR00000000182899,6888
-Haryana,Madhu Enterprises|ACUSDM0117,Om Traders|DLR00000000167484,6985
+Haryana,Madhu Enterprises|ACUSDM0117,Om Shiv Trader|DLR00000000182963,6985
 Haryana,Madhu Enterprises|ACUSDM0117,Shiv Kirana Store|DLR00000000167513,6595
 Haryana,Madhu Enterprises|ACUSDM0117,Shree Mansa Mata Traders|DLR00000000182947,1511
 Haryana,Madhu Enterprises|ACUSDM0117,Shree Raj Traders|DLR00000000182912,8411
@@ -690,7 +694,6 @@ Maharashtra,J.K. Brothers|ACUSDJ4838,V S Marketing|DLR000000178407,8164
 Maharashtra,J.K. Brothers|ACUSDJ4838,Wbm Marketing|DLR00000000173198,3906
 Maharashtra,Jai Mata Di Agency|ACUSDSS001,Kanak Enterprises|DLR00000000175377,2025
 Maharashtra,Jai Mata Di Agency|ACUSDSS001,Vijay Sales Corporation|DLR00000000176427,2034
-Maharashtra,Jai Mata Di Agency|ACUSDSS001,Vijay Traders|DLR00000000176427,7183
 Maharashtra,Jai Mata Di Agency|ACUSDSS001,Yogesh Agency|DLR00000000177557,4150
 Maharashtra,Jainil Traders|ACUSDJ0023,Atharva Agency|DLR00000000170059,3555
 Maharashtra,Jainil Traders|ACUSDJ0023,Bholanath Kirana Stores|DLR00000000170060,4544
@@ -784,6 +787,7 @@ Maharashtra,Prabhat Agency|ACUSDP2385,Garv Trading Co Gandhinagar|DLR00000000172
 Maharashtra,Prabhat Agency|ACUSDP2385,Haripriya Agencies|DLR00000000172199,5884
 Maharashtra,Prabhat Agency|ACUSDP2385,Harsharaj Agencies|DLR00000000172201,1870
 Maharashtra,Prabhat Agency|ACUSDP2385,Keshav Patil And Sons|DLR00000000172203,3185
+Maharashtra,Prabhat Agency|ACUSDP2385,Mk Enterprises|DLR000000184878,9495
 Maharashtra,Prabhat Agency|ACUSDP2385,New Sharada Stores Kolhapur|DLR00000000172204,8098
 Maharashtra,Prabhat Agency|ACUSDP2385,Nitin Agencies|DLR00000000172205,2222
 Maharashtra,Prabhat Agency|ACUSDP2385,Renuka Trading Co|DLR00000000172207,2323
@@ -810,19 +814,13 @@ Maharashtra,Shree Datta Agency|ACUSDSS004,Aishwarya Distributors|,7687
 Maharashtra,Shree Datta Agency|ACUSDSS004,Akshay Trading Company|DLR000000184238,3238
 Maharashtra,Shree Datta Agency|ACUSDSS004,Balaji Traders|DLR000000184239,7872
 Maharashtra,Shree Datta Agency|ACUSDSS004,Chintamani Distributors|DLR00000000174149,7432
-Maharashtra,Shree Datta Agency|ACUSDSS004,Chintamani Distributors|DLR00000000174149,7432
-Maharashtra,Shree Datta Agency|ACUSDSS004,Innovator Distributor|DLR000000174205,1299
 Maharashtra,Shree Datta Agency|ACUSDSS004,Innovator Distributor|DLR000000174205,1299
 Maharashtra,Shree Datta Agency|ACUSDSS004,Pakiza Enterprises|,4535
 Maharashtra,Shree Datta Agency|ACUSDSS004,Pakiza Enterprises|,4535
 Maharashtra,Shree Datta Agency|ACUSDSS004,Parshwanath Agency|DLR000000174204,7941
-Maharashtra,Shree Datta Agency|ACUSDSS004,Parshwanath Agency|DLR000000174204,7941
-Maharashtra,Shree Datta Agency|ACUSDSS004,Raghukul Agency|DLR00000000174143,4401
 Maharashtra,Shree Datta Agency|ACUSDSS004,Raghukul Agency|DLR00000000174143,4401
 Maharashtra,Shree Datta Agency|ACUSDSS004,Rajluxmi Traderrz|DLR000000184236,9345
 Maharashtra,Shree Datta Agency|ACUSDSS004,Sai Enterprises|DLR00000000174150,4535
-Maharashtra,Shree Datta Agency|ACUSDSS004,Sai Enterprises|DLR00000000174150,4535
-Maharashtra,Shree Datta Agency|ACUSDSS004,Shree Bramhchaitanya Agency|DLR00000000174148,2025
 Maharashtra,Shree Datta Agency|ACUSDSS004,Shree Bramhchaitanya Agency|DLR00000000174148,2025
 Maharashtra,Shree Datta Agency|ACUSDSS004,Shubhankar Enterprises|DLR000000184240,7572
 Maharashtra,Shree Datta Agency|ACUSDSS004,Viraj Traders|DLR000000184234,2144
@@ -1030,6 +1028,7 @@ Punjab,Commander Trade Link|ACUSDC1514,Vikas Trading Company|DLR00000000158940,5
 Punjab,Commander Trade Link|ACUSDC1514,Yashuveer Karyana Store|DLR00000000158921,9505
 Punjab,Garg Sales Corporation|ACUSDG1091,A R Trading Co|DLR00000000172595,8748
 Punjab,Garg Sales Corporation|ACUSDG1091,Ansh Traders|DLR00000000158782,2025
+Punjab,Garg Sales Corporation|ACUSDG1091,As Traders|DLR000000184881,2025
 Punjab,Garg Sales Corporation|ACUSDG1091,Chanana Confectionery|DLR00000000158783,4617
 Punjab,Garg Sales Corporation|ACUSDG1091,Chetan Kiryana Store|DLR00000000158784,8210
 Punjab,Garg Sales Corporation|ACUSDG1091,Dulla Ram|DLR00000000172472,1008
@@ -1044,6 +1043,7 @@ Punjab,Garg Sales Corporation|ACUSDG1091,Madan Lal Gautam & Sons New|DLR00000000
 Punjab,Garg Sales Corporation|ACUSDG1091,Radhey Tading|DLR00000000158805,6565
 Punjab,Garg Sales Corporation|ACUSDG1091,Ramesh Sales Depot|DLR00000000158808,2830
 Punjab,Garg Sales Corporation|ACUSDG1091,S Y Foods & Beverges|DLR00000000172905,9646
+Punjab,Garg Sales Corporation|ACUSDG1091,S.M Traders|DLR000000184882,2031
 Punjab,Garg Sales Corporation|ACUSDG1091,Shahi Kirayana|DLR00000000158804,9993
 Punjab,Garg Sales Corporation|ACUSDG1091,Shiv Conf.|DLR00000000158811,8087
 Punjab,Garg Sales Corporation|ACUSDG1091,Shri Narain And Sons|DLR00000000158792,2025
@@ -1281,23 +1281,22 @@ Rajasthan,Dv Trading Company|ACUSDD0103,Simer Agency|DLR00000000167938,7320
 Rajasthan,Dv Trading Company|ACUSDD0103,Sri Balaji Wholesale Bhandar|DLR00000000167937,5731
 Rajasthan,Dv Trading Company|ACUSDD0103,Sunil Trading Corporation|DLR00000000167935,4549
 Rajasthan,Dv Trading Company|ACUSDD0103,V K R K|DLR00000000168032,5835
-Rajasthan,Geeta Enterprise|ACUSDG0149,Ajay Trading Company|DLR00000000162811,9921
-Rajasthan,Geeta Enterprise|ACUSDG0149,B.M Groceries|DLR00000000168703,8356
-Rajasthan,Geeta Enterprise|ACUSDG0149,Baba Agencies|DLR00000000162895,7516
-Rajasthan,Geeta Enterprise|ACUSDG0149,Gupta Traders|DLR00000000162880,2370
-Rajasthan,Geeta Enterprise|ACUSDG0149,Haricharan Lal And Sons|DLR00000000162883,6662
-Rajasthan,Geeta Enterprise|ACUSDG0149,J .K Agencies|DLR00000000162881,7521
-Rajasthan,Geeta Enterprise|ACUSDG0149,Jagdamba Traders|DLR00000000162808,8787
-Rajasthan,Geeta Enterprise|ACUSDG0149,Kailash Provision Store|DLR00000000162925,6535
-Rajasthan,Geeta Enterprise|ACUSDG0149,Kapil Marketing|DLR00000000162863,3002
-Rajasthan,Geeta Enterprise|ACUSDG0149,Rajendra Kumar Sheetal Kumar|DLR00000000162884,6434
-Rajasthan,Geeta Enterprise|ACUSDG0149,Rameshchand Asharam|DLR00000000162896,5757
-Rajasthan,Geeta Enterprise|ACUSDG0149,Ramjilal Harishanker|DLR00000000163141,3707
-Rajasthan,Geeta Enterprise|ACUSDG0149,Sangana Agency|DLR00000000162851,3520
-Rajasthan,Geeta Enterprise|ACUSDG0149,Satguru Traders|DLR00000000162812,8648
-Rajasthan,Geeta Enterprise|ACUSDG0149,Saurabh Agencies|DLR00000000162891,8320
-Rajasthan,Geeta Enterprise|ACUSDG0149,Shyam Enterprises|DLR00000000162921,2208
-Rajasthan,Geeta Enterprise|ACUSDG0149,Singhal Trading Company|DLR00000000162814,8283
+Rajasthan,Geeta Enterprise|ACUSDG0149,Ajay Trading Company|DLR00000000162811,7516
+Rajasthan,Geeta Enterprise|ACUSDG0149,B M Groceries|DLR00000000168703,3002
+Rajasthan,Geeta Enterprise|ACUSDG0149,Baba Agencies|DLR00000000162895,9921
+Rajasthan,Geeta Enterprise|ACUSDG0149,Gupta Traders|DLR00000000162880,7521
+Rajasthan,Geeta Enterprise|ACUSDG0149,Haricharan Lal Ands Sons|DLR00000000162883,3707
+Rajasthan,Geeta Enterprise|ACUSDG0149,Harshit Agency|DLR00000000162884,8356
+Rajasthan,Geeta Enterprise|ACUSDG0149,J.K Agencies|DLR00000000162881,8320
+Rajasthan,Geeta Enterprise|ACUSDG0149,Jagdamba Traders|DLR00000000162808,6535
+Rajasthan,Geeta Enterprise|ACUSDG0149,Kapil Marketing|DLR00000000162863,8648
+Rajasthan,Geeta Enterprise|ACUSDG0149,Ramesh Chand Asharam|DLR00000000162896,2370
+Rajasthan,Geeta Enterprise|ACUSDG0149,Ramjilal Harishanker|DLR00000000163141,8787
+Rajasthan,Geeta Enterprise|ACUSDG0149,Sangana Agency|DLR00000000162851,2208
+Rajasthan,Geeta Enterprise|ACUSDG0149,Satguru Traders|DLR00000000162812,3520
+Rajasthan,Geeta Enterprise|ACUSDG0149,Saurabh Agencies|DLR00000000162891,6662
+Rajasthan,Geeta Enterprise|ACUSDG0149,Shyam Enterprises|DLR00000000162921,5757
+Rajasthan,Geeta Enterprise|ACUSDG0149,Singhal Trading Company|DLR00000000162814,6434
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Aarzoo Traders|DLR000000173946,1141
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Agarwal Agencies|DLR000000184755,4340
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Amit Kirana And Genral Store|DLR000000184760,3257
@@ -1316,11 +1315,10 @@ Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Om Mega Store (Pachar)|DLR00
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Patni Agencies|DLR000000184748,2818
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Premchand Rakesh Kumar Jain {Phulera}|DLR000000184758,2025
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Priya Sales Agency|DLR00000000167823,3335
-Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Radhay Shyam Krishna Avtar|DLR00000000172793,1514
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Ramesh Traders {Sambhar}|DLR000000184756,9082
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Rawat Marketing|DLR00000000171222,4194
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Riddhi Siddhi Enterprises|DLR000000184761,2025
-Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Shahkambari Sales Agency|DLR000000184759,3871
+Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Shahkambari Sales Agency|DLR00000000167768,3871
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Shakshi Trading Company|DLR00000000171352,5311
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Shiv Shakti Enterprises|DLR000000184764,1631
 Rajasthan,I.G.Foods & Snacks Ltd. (Conf)|ACUSDI0135,Shivay Sales|DLR000000184749,4810
@@ -1389,22 +1387,11 @@ Rajasthan,Karni Traders|ACUSDK0094,Bajrang Agency - Napasar|DLR00000000169253,65
 Rajasthan,Karni Traders|ACUSDK0094,Gupta Agency - Lunkaransar|DLR00000000169270,2701
 Rajasthan,Karni Traders|ACUSDK0094,Jainy Agency - Nokha|DLR00000000169274,2025
 Rajasthan,Karni Traders|ACUSDK0094,Karni Agencies - Choudhary Colony|DLR00000000169377,5524
-Rajasthan,Karni Traders|ACUSDK0094,Kripa Bherunath -|DLR00000000169281,2991
+Rajasthan,Karni Traders|ACUSDK0094,Kripa Bherunath - Dungargarh (Confy)|DLR00000000169281,2991
 Rajasthan,Karni Traders|ACUSDK0094,Raj Shree Enterprises - Dungargarh|DLR00000000169295,2991
 Rajasthan,Karni Traders|ACUSDK0094,Shree Shyam Enterprises Jnv|DLR00000000169378,5244
 Rajasthan,Karni Traders|ACUSDK0094,Shri Karni Trading Kolayat|DLR00000000169239,2980
 Rajasthan,Karni Traders|ACUSDK0094,Tawania Misthan Bhandar|DLR00000000169229,2551
-Rajasthan,Manoj Trading Company|ACUSDM0073,Bhagwati Enterprises|DLR00000000168046,1621
-Rajasthan,Manoj Trading Company|ACUSDM0073,Jay Enterprises|DLR00000000168047,3688
-Rajasthan,Manoj Trading Company|ACUSDM0073,Khandelwal Sales|DLR00000000168430,5707
-Rajasthan,Manoj Trading Company|ACUSDM0073,Laduram Jagdish Prasad|DLR00000000168431,2534
-Rajasthan,Manoj Trading Company|ACUSDM0073,Motilal Vishawanath|DLR00000000168432,2025
-Rajasthan,Manoj Trading Company|ACUSDM0073,Rahul Kirana Store|DLR00000000168732,5935
-Rajasthan,Manoj Trading Company|ACUSDM0073,Ramnath Chandi Prasad|DLR00000000168433,2352
-Rajasthan,Manoj Trading Company|ACUSDM0073,Rk Trading Company|DLR00000000168048,4088
-Rajasthan,Manoj Trading Company|ACUSDM0073,Satnarayan Agarwal|DLR00000000168996,3876
-Rajasthan,Manoj Trading Company|ACUSDM0073,Sharma Traders|DLR00000000168434,6716
-Rajasthan,Manoj Trading Company|ACUSDM0073,Swastik Traders|DLR00000000168674,3777
 Rajasthan,New Sunrise Agency|ACUSDN0605,Abhishek Marketing|DLR00000000160562,1088
 Rajasthan,New Sunrise Agency|ACUSDN0605,Abhishek Marketing|DLR000000175332,2025
 Rajasthan,New Sunrise Agency|ACUSDN0605,Anil Traders|DLR00000000168607,4823
@@ -1419,12 +1406,51 @@ Rajasthan,New Sunrise Agency|ACUSDN0605,Paliwal Agency|DLR00000000160590,5838
 Rajasthan,New Sunrise Agency|ACUSDN0605,Paras Traders|DLR00000000172053,3393
 Rajasthan,New Sunrise Agency|ACUSDN0605,Sarswati Kirana & General Store|DLR00000000171781,7260
 Rajasthan,New Sunrise Agency|ACUSDN0605,Tip Top Agency|DLR00000000170173,3754
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Aarzoo Traders|DLR00000000173698,1141
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Agarwal Agencies|DLR00000000173782,4340
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Amit Kirana And Genral Store|DLR00000000173828,3257
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Anshika Enterprises [ Paota ]|DLR00000000173733,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Arihant Traders|DLR00000000174038,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Balaji Store|DLR00000000173746,5770
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Bansal Sales Corporation|DLR000000181901,1818
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Ganesh Agency|DLR00000000173747,8571
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Himanshi Trading Company|DLR00000000174037,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Hitesh Enterprises|DLR00000000163344,9959
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Khandelwal Agency|DLR00000000163345,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Krishna Sales|DLR00000000166442,3209
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Lakshya Trading Company [ Rampura Dabri ]|DLR00000000173732,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Laxmi Sales Corporation|DLR000000173999,1741
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,M/S Suraj Enterprises|DLR00000000174036,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Om Mega Store (Pachar)|DLR00000000173751,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Patni Agencies|DLR000000184016,2818
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Premchand Rakesh Kumar Jain {Phulera}|DLR00000000174102,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Priya Sales Agency|DLR00000000163336,3335
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,R K Agencies|DLR000000181882,6628
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Radhay Shyam Krishna Avtar|DLR00000000172803,1514
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Ramesh Traders {Sambhar}|DLR00000000173979,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Rawat Marketing|DLR00000000169039,4194
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Riddhi Siddhi Enterprises|DLR00000000173725,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Saurabh Trading Company|DLR00000000174195,9669
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shahkambari Sales Agency|DLR00000000173724,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shakshi Trading Company|DLR00000000171321,5311
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shiv Shakti Enterprises|DLR00000000173729,1631
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shivay Sales|DLR00000000173723,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shree Ganesh Enterprises|DLR00000000165219,5695
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shree Kalyan Traders|DLR00000000174090,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shree Kanha Ageicnes|DLR00000000173722,2003
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shri Agencies|DLR00000000163339,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shri Govindam Store|DLR00000000173730,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Shri Vardhman Agencies|DLR00000000163340,8410
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Vikash Agency|DLR00000000173968,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Vinod Departmental Store|DLR00000000173745,2025
+Rajasthan,Nls Brothers Private Limited|ACUSDNOO55,Vipin Enterprises|DLR00000000165828,5543
 Rajasthan,Palak Agency|ACUSDP0178,Ajay Agency|DLR00000000159355,1053
 Rajasthan,Palak Agency|ACUSDP0178,Avni Traders|DLR000000181231,3709
 Rajasthan,Palak Agency|ACUSDP0178,Deepak Agency|DLR00000000159356,2025
 Rajasthan,Palak Agency|ACUSDP0178,Gaurav Agencies|DLR00000000168984,8990
 Rajasthan,Palak Agency|ACUSDP0178,Goyal And Brothers|DLR00000000159357,7112
 Rajasthan,Palak Agency|ACUSDP0178,Goyal Builders|DLR00000000168783,5536
+Rajasthan,Palak Agency|ACUSDP0178,Gyan Chand &Sons|DLR00000000171843,2025
 Rajasthan,Palak Agency|ACUSDP0178,Harish Agency|DLR00000000159358,1215
 Rajasthan,Palak Agency|ACUSDP0178,Jhalani Agency|DLR00000000159359,6514
 Rajasthan,Palak Agency|ACUSDP0178,Jk Agency|DLR00000000159360,7971
@@ -1441,7 +1467,6 @@ Rajasthan,Palak Agency|ACUSDP0178,Shree Balaji Sales Agency|DLR00000000159343,38
 Rajasthan,Palak Agency|ACUSDP0178,Shree Shyam Agency|DLR00000000159345,6821
 Rajasthan,Palak Agency|ACUSDP0178,Shreekant And Co.|DLR00000000159344,2289
 Rajasthan,Palak Agency|ACUSDP0178,Singh Traders|DLR00000000159346,1444
-Rajasthan,Palak Agency|ACUSDP0178,Sunil Provision Store|DLR00000000171843,2025
 Rajasthan,Palak Agency|ACUSDP0178,Surbhi Traders|DLR00000000159348,4288
 Rajasthan,Palak Agency|ACUSDP0178,Swati Traders|DLR00000000159351,7036
 Rajasthan,Palak Agency|ACUSDP0178,Tambi General Store|DLR00000000159352,4945
@@ -1510,29 +1535,29 @@ Rajasthan,Rasik Remedies Pvt. Ltd.|ACUSDR0074,Tirupati Associates|DLR00000000168
 Rajasthan,Rasik Remedies Pvt. Ltd.|ACUSDR0074,Vikas Trading|DLR00000000165027,9957
 Rajasthan,Ravi Enterprises|ACUSDR0154,Aadinath Distributor|DLR00000000169735,2025
 Rajasthan,Ravi Enterprises|ACUSDR0154,Aanand Store|DLR00000000170933,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Balaji Sales Badnor|DLR00000000169738,6947
-Rajasthan,Ravi Enterprises|ACUSDR0154,Bhavya General Store|DLR00000000169739,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Bn Raipur|DLR00000000169755,8077
+Rajasthan,Ravi Enterprises|ACUSDR0154,Balaji Sales Badnor|DLR00000000169738,8077
+Rajasthan,Ravi Enterprises|ACUSDR0154,Bhavya General Store|DLR00000000169739,5864
+Rajasthan,Ravi Enterprises|ACUSDR0154,Bn Raipur|DLR00000000169755,3898
 Rajasthan,Ravi Enterprises|ACUSDR0154,Gaurav Traders|DLR00000000169741,3898
 Rajasthan,Ravi Enterprises|ACUSDR0154,Gulshan Enterprises|DLR00000000169742,9957
-Rajasthan,Ravi Enterprises|ACUSDR0154,Harsh Provision|DLR00000000169743,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Jyoti Sales|DLR000000173470,1586
-Rajasthan,Ravi Enterprises|ACUSDR0154,Kanhaiyalal Dharamdas Shahpura|DLR00000000169745,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Kgn Confectionary Bhagor|DLR00000000171049,2025
-Rajasthan,Ravi Enterprises|ACUSDR0154,Kishan Chand Ferumal|DLR00000000169747,7908
+Rajasthan,Ravi Enterprises|ACUSDR0154,Harsh Provision|DLR00000000169743,6947
+Rajasthan,Ravi Enterprises|ACUSDR0154,Jyoti Sales|DLR000000173470,3898
+Rajasthan,Ravi Enterprises|ACUSDR0154,Kanhaiyalal Dharamdas Shahpura|DLR00000000169745,1586
+Rajasthan,Ravi Enterprises|ACUSDR0154,Kgn Confectionary Bhagor|DLR00000000171049,5865
+Rajasthan,Ravi Enterprises|ACUSDR0154,Kishan Chand Ferumal|DLR00000000169747,3898
 Rajasthan,Ravi Enterprises|ACUSDR0154,Krishna Priya|DLR00000000169748,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Krishna Sweets|DLR00000000169749,9478
-Rajasthan,Ravi Enterprises|ACUSDR0154,Ms Traders Sareri|DLR00000000171736,3914
-Rajasthan,Ravi Enterprises|ACUSDR0154,Mukesh Kirana Raila|DLR00000000169750,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Parshvi Sales|DLR00000000169751,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Pawan Sales|DLR00000000169964,7701
+Rajasthan,Ravi Enterprises|ACUSDR0154,Krishna Sweets|DLR00000000169749,7701
+Rajasthan,Ravi Enterprises|ACUSDR0154,Ms Traders Sareri|DLR00000000171736,1062
+Rajasthan,Ravi Enterprises|ACUSDR0154,Mukesh Kirana Raila|DLR00000000169750,2123
+Rajasthan,Ravi Enterprises|ACUSDR0154,Parshvi Sales|DLR00000000169751,2822
+Rajasthan,Ravi Enterprises|ACUSDR0154,Pawan Sales|DLR00000000169964,2025
 Rajasthan,Ravi Enterprises|ACUSDR0154,Puran Prakash Dwarka Das Bhim|DLR00000000169752,6737
-Rajasthan,Ravi Enterprises|ACUSDR0154,Rishab Agency Asind|DLR00000000169754,5865
+Rajasthan,Ravi Enterprises|ACUSDR0154,Rishab Agency Asind|DLR00000000169754,9478
 Rajasthan,Ravi Enterprises|ACUSDR0154,Sodani Enterprises Raila|DLR00000000169756,3898
-Rajasthan,Ravi Enterprises|ACUSDR0154,Vardhman General Store|DLR00000000169763,5864
-Rajasthan,Ravi Enterprises|ACUSDR0154,Vardhman Karera|DLR00000000169746,2822
-Rajasthan,Ravi Enterprises|ACUSDR0154,Vinod Agency|DLR00000000170085,2123
-Rajasthan,Ravi Enterprises|ACUSDR0154,Yesh Jain|DLR000000173967,1062
+Rajasthan,Ravi Enterprises|ACUSDR0154,Vardhman General Store Karera|DLR00000000169746,7908
+Rajasthan,Ravi Enterprises|ACUSDR0154,Vardhman General Store|DLR00000000169763,3898
+Rajasthan,Ravi Enterprises|ACUSDR0154,Vinod Agency|DLR00000000170085,3898
+Rajasthan,Ravi Enterprises|ACUSDR0154,Yesh Jain|DLR000000173967,3914
 Rajasthan,Satnam Traders|ACUSDS0269,Agarwal Sales Agency|DLR00000000159660,4594
 Rajasthan,Satnam Traders|ACUSDS0269,Gopalka Traders|DLR00000000159665,7082
 Rajasthan,Satnam Traders|ACUSDS0269,Jain Trading Companyranoli|DLR00000000159666,6674
@@ -1548,21 +1573,17 @@ Rajasthan,Satnam Traders|ACUSDS0269,Shri Mana Baba Trading &Construction Private
 Rajasthan,Satnam Traders|ACUSDS0269,Shyam Trade|DLR00000000159684,2025
 Rajasthan,Satnam Traders|ACUSDS0269,Tirupati Impex|DLR00000000159707,1163
 Rajasthan,Satnam Traders|ACUSDS0269,Vijay General Store Neemkathana|DLR00000000159708,2025
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Aarzoo Traders|DLR00000000173698,1141
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Bansal Sales Corporation|DLR000000181901,1818
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Hitesh Enterprises|DLR00000000163344,9959
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Laxmi Sales Corporation|DLR000000173999,1741
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Priya Sales Agency|DLR00000000163336,3335
-Rajasthan,Shri Shyam Agency|ACUSDS4818,R K Agencies|DLR000000181882,6628
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Radhay Shyam Krishna Avtar|DLR00000000172803,1514
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Rawat Marketing|DLR00000000169039,4194
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Shakshi Trading Company|DLR00000000171321,5311
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Shree Ganesh Enterprises|DLR00000000165219,5695
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Shri Agencies|DLR00000000163339,2025
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Shri Vardhman Agencies|DLR00000000163340,8410
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Sorabh Trading Company|DLR00000000174195,9669
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Subh Laxmi Enterprises|DLR000000181902,6552
-Rajasthan,Shri Shyam Agency|ACUSDS4818,Vipin Enterprises|DLR00000000165828,5543
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Bhagwati Enterprises|DLR00000000168046,1621
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Jay Enterprises|DLR00000000168047,3688
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Khandelwal Sales|DLR00000000168430,5707
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Laduram Jagdish Prasad|DLR00000000168431,2534
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Motilal Vishawanath|DLR00000000168432,2025
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Rahul Kirana Store|DLR00000000168732,5935
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Ramnath Chandi Prasad|DLR00000000168433,2352
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Rk Trading Company|DLR00000000168048,4088
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Satnarayan Agarwal|DLR00000000168996,3876
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Sharma Traders|DLR00000000168434,6716
+Rajasthan,Shri Shyam Trading Company|ACUSDS0441,Swastik Traders|DLR00000000168674,3777
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Aarushi Sales|DLR00000000170272,2025
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Adinath Provision|DLR00000000169440,2025
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Ajmera Agencies|DLR000000174179,2981
@@ -1570,8 +1591,9 @@ Rajasthan,Shri Vidhan Agency|ACUSDS0364,Amit Agency|DLR00000000165126,2025
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Anant Traders|DLR00000000165130,8039
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Bhagya Shree Traders|DLR00000000169341,9957
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Chawda Enterprises|DLR00000000165140,1892
-Rajasthan,Shri Vidhan Agency|ACUSDS0364,Chitranjan Marketing|DLR00000000183102,1416
+Rajasthan,Shri Vidhan Agency|ACUSDS0364,Chitranjan Marketing|DLR00000000165124,1416
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,D.K. Enterprises|DLR00000000166950,5606
+Rajasthan,Shri Vidhan Agency|ACUSDS0364,Deepak Kumar Lokesk Kumar|DLR000000184851,1270
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Deepak Kumar Om Prakash|DLR00000000169441,1426
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Falodi Agency|DLR00000000169802,5999
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Ganpati Traders|DLR00000000165128,2025
@@ -1597,37 +1619,8 @@ Rajasthan,Shri Vidhan Agency|ACUSDS0364,Shree Nath Agency|DLR00000000165133,2117
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Shree Vinayak Agency|DLR00000000166748,2999
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Shri Balaji Distributers|DLR00000000178451,2025
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Shri Radhey Sales|DLR00000000165145,6408
+Rajasthan,Shri Vidhan Agency|ACUSDS0364,Shri Ram Kirana Store|DLR000000184852,4775
 Rajasthan,Shri Vidhan Agency|ACUSDS0364,Yash Kirana Sumerganj Mandi|DLR00000000168660,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Agarwal Agencies|DLR00000000173782,4340
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Amit Kirana And Genral Store|DLR00000000173828,3257
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Anshika Enterprises [ Paota ]|DLR00000000173733,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Arihant Traders|DLR00000000174038,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Balaji Store|DLR00000000173746,5770
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Bishandayal Tarun Kumar|DLR00000000174933,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Ganesh Agency|DLR00000000173747,8571
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Himanshi Trading Company|DLR00000000174037,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Jsuday Consumers Pvt Ltd|DLR00000000174247,7012
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Khandelwal Agency|DLR00000000163345,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Krishna Sales|DLR00000000166442,3209
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Lakshya Trading Company [ Rampura Dabri ]|DLR00000000173732,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,M/S Suraj Enterprises|DLR00000000174036,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Mangal Chand Pawan Kumar And Company|DLR00000000173731,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Meena Sales Agency|DLR00000000174089,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Om Mega Store (Pachar)|DLR00000000173751,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Parkesh Store|DLR00000000174005,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Patni Agencies|DLR000000184016,2818
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Ramesh Traders {Sambhar}|DLR00000000173979,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Riddhi Siddhi Enterprises|DLR00000000173725,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Shahkambari Sales Agency|DLR00000000173724,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Shiv Shakti Enterprises|DLR00000000173729,1631
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Shivay Sales|DLR00000000173723,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Shree Kalyan Traders|DLR00000000174090,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Shree Kanha Ageicnes|DLR00000000173722,2003
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Shri Govindam Store|DLR00000000173730,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Soni Enterprises|DLR00000000173750,1011
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Sunil Kumar Banwarilal|DLR00000000174220,4821
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Vikash Agency|DLR00000000173968,2025
-Rajasthan,Siddhi Vinayak Sales|ACUSDS4597,Vinod Departmental Store|DLR00000000173745,2025
 Rajasthan,Vinod Agency|ACUSDV0142,Agrawal Traders Geejgarh|DLR00000000162956,4429
 Rajasthan,Vinod Agency|ACUSDV0142,Dangayach Agencies|DLR00000000160500,1982
 Rajasthan,Vinod Agency|ACUSDV0142,Garg Agencies|DLR00000000160505,3243
@@ -1814,3 +1807,4 @@ Uttarakhand,V.S Enterprises|ACUSDV4827,Rai Enterprises|DLR00000000169049,9409
 Uttarakhand,V.S Enterprises|ACUSDV4827,Sharma Traders|DLR00000000168847,1242
 Uttarakhand,V.S Enterprises|ACUSDV4827,Shiv Shakti Traders|DLR00000000160212,3488
 Uttarakhand,V.S Enterprises|ACUSDV4827,Surendra Agencies|DLR00000000160205,9368
+Uttarakhand,V.S Enterprises|ACUSDV4827,Tanvi Trading Company|DLR000000184808,3075
