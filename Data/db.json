@@ -478,8 +478,8 @@
             "Mother Tea And Agro Foods Company|DLR00000000175803": {
                 "password": 4864
             },
-            "Ms Marketing|DLR00000000170930": {
-                "password": 9993
+            "Mukan Enterprise|DLR00000000170930": {
+                "password": 9512
             },
             "Navkar Agency|DLR00000000169601": {
                 "password": 5886
@@ -590,8 +590,8 @@
             "Mother Tea And Agro Foods Company|DLR000000175196": {
                 "password": 4864
             },
-            "Ms Marketing|DLR00000000170898": {
-                "password": 9993
+            "Mukan Enterprise|DLR00000000170898": {
+                "password": 9512
             },
             "Navkar Agency|DLR00000000169710": {
                 "password": 5886
@@ -863,6 +863,9 @@
             "K.K. Jindal|DLR00000000167599": {
                 "password": 4225
             },
+            "Khushi Trading Company|DLR00000000167607": {
+                "password": 3227
+            },
             "Koushik Kirana|DLR00000000167894": {
                 "password": 3500
             },
@@ -874,9 +877,6 @@
             },
             "Mukesh & Kuldeep Kirna|DLR00000000167602": {
                 "password": 5190
-            },
-            "R.K. Traders|DLR00000000167607": {
-                "password": 1868
             },
             "Raj Trading Company|DLR00000000167893": {
                 "password": 8175
@@ -998,8 +998,8 @@
             "Raunakram Vijender Kumar|DLR00000000174131": {
                 "password": 5842
             },
-            "Satnaryan Jaibhagwan|DLR00000000174132": {
-                "password": 4916
+            "Shree Shyam Power Solutions|DLR00000000174132": {
+                "password": 3151
             },
             "Shree Shyam Shalona Traders|DLR00000000176432": {
                 "password": 2025
@@ -1041,19 +1041,16 @@
             "Bansal Traders|DLR00000000182918": {
                 "password": 3538
             },
-            "Chug Sales Agency|DLR00000000173338": {
+            "Chug Sales Agency|DLR00000000182898": {
                 "password": 4871
             },
             "Gyan Chander Rajesh Kumar|DLR00000000182899": {
                 "password": 6888
             },
-            "Om Shiv Trader|DLR00000000182963": {
-                "password": 6985
-            },
-            "Shiv Kirana Store|DLR00000000167513": {
+            "Shiv Kirana Store|DLR00000000182946": {
                 "password": 6595
             },
-            "Shree Mansa Mata Traders|DLR00000000182947": {
+            "Shree Mansa Mata Traders|DLR00000000167852": {
                 "password": 1511
             },
             "Shree Raj Traders|DLR00000000182912": {
@@ -1073,7 +1070,7 @@
             "Bansal|DLR00000000173752": {
                 "password": 4881
             },
-            "Bhanumaal Ch|DLR000000173940": {
+            "Bhanumaal Ch|DLR00000000173700": {
                 "password": 8239
             },
             "Chopra Traders|DLR00000000173701": {
@@ -1105,6 +1102,9 @@
             },
             "Mohan Sales|DLR00000000173755": {
                 "password": 7771
+            },
+            "Nitin Trader|DLR000000185489": {
+                "password": 5151
             },
             "Singla Book Depot|DLR00000000173911": {
                 "password": 6126
@@ -1197,7 +1197,7 @@
                 "password": 9658
             },
             "Lalit Kumar&Brothers|DLR00000000167799": {
-                "password": 2025
+                "password": 2908
             },
             "Mangla Trading|DLR00000000171347": {
                 "password": 2364
@@ -1210,9 +1210,6 @@
             },
             "Sarif Traders|DLR00000000167801": {
                 "password": 9859
-            },
-            "Vijay Kumar & Sons|DLR000000173966": {
-                "password": 5250
             }
         },
         "Pulkit Trading Co.|ACUSDP0132": {
@@ -1298,7 +1295,7 @@
             "Rakesh Trading Company|DLR00000000179206": {
                 "password": 5323
             },
-            "Shiv Trading Company|DLR00000000162841": {
+            "Shiv Trading Company|DLR00000000158996": {
                 "password": 9998
             },
             "Shri Ram Store|DLR00000000159003": {
@@ -1310,7 +1307,7 @@
             "Simran Sales|DLR00000000162845": {
                 "password": 6460
             },
-            "Vinay Sales Agency|DLR00000000162840": {
+            "Vinay Sales|DLR00000000159005": {
                 "password": 5323
             },
             "Vinodbala Sales|DLR00000000159006": {
@@ -1401,7 +1398,7 @@
             "Jai Veer Trading|DLR00000000170723": {
                 "password": 2349
             },
-            "Jatin Trading Co|DLR00000000177864": {
+            "Jatin Trading Co|DLR00000000175460": {
                 "password": 6516
             },
             "Karwa Enterprises|DLR00000000175459": {
@@ -1454,17 +1451,17 @@
             "Jhanvi Enter.- Self|DLR00000000167896": {
                 "password": 9872
             },
+            "Kansal Enterprises|DLR00000000170033": {
+                "password": 2025
+            },
             "M D Traders|DLR00000000166917": {
                 "password": 3341
             },
-            "Om Marketing|DLR00000000166943": {
+            "Om Enterprises|DLR00000000184107": {
                 "password": 5207
             },
             "Perfect|DLR00000000184204": {
                 "password": 8379
-            },
-            "Sri Shyam Ent|DLR00000000166964": {
-                "password": 3189
             },
             "Sri Shyam Traders|DLR00000000166967": {
                 "password": 2732
@@ -1824,14 +1821,29 @@
             "Manhas Trading Company|DLR00000000171313": {
                 "password": 3544
             },
+            "Muskan Traders|DLR000000185108": {
+                "password": 6001
+            },
+            "Parihar Trading Company|DLR00000000170286": {
+                "password": 6092
+            },
             "R S Accocaites|DLR00000000170285": {
                 "password": 2025
+            },
+            "Rajinder Kumar & Brother|DLR000000184925": {
+                "password": 3880
             },
             "Rakesh Bidi Company|DLR00000000168907": {
                 "password": 8139
             },
             "Rupali Sales|DLR00000000167674": {
                 "password": 6896
+            },
+            "Sharma Agenscy|DLR00000000167536": {
+                "password": 4008
+            },
+            "Sharma Colddrink|DLR000000185073": {
+                "password": 2025
             },
             "Sharma Conf\u2026|DLR00000000167539": {
                 "password": 2323
@@ -2146,20 +2158,23 @@
             }
         },
         "Aggarwal Agency|ACUSDA0410": {
+            "Akshay Traders Khanidhana|DLR00000000167957": {
+                "password": 9331
+            },
             "Arihant Agency|DLR00000000167127": {
                 "password": 5994
             },
             "Choudhary Traders|DLR00000000167460": {
                 "password": 8849
             },
-            "Jai Durge|DLR00000000172143": {
-                "password": 5836
-            },
             "Kankane Sales|DLR00000000167504": {
                 "password": 2025
             },
             "Madhav Trading Company|DLR00000000167505": {
                 "password": 1919
+            },
+            "Manish Sales|DLR00000000172143": {
+                "password": 3186
             },
             "Manoj Traders|DLR00000000167954": {
                 "password": 3403
@@ -2172,6 +2187,9 @@
             },
             "New Jain Traders|DLR00000000167507": {
                 "password": 7742
+            },
+            "Shiv Traders|DLR00000000167956": {
+                "password": 7237
             },
             "Shree Gudhal Sarkar Traders|DLR000000184688": {
                 "password": 8966
@@ -2234,9 +2252,6 @@
             "Ajay Traders|DLR00000000161780": {
                 "password": 9944
             },
-            "Ashvini Food And Traders|DLR000000174116": {
-                "password": 2094
-            },
             "Baba Group Of Agency|DLR00000000161785": {
                 "password": 8789
             },
@@ -2270,17 +2285,11 @@
             "Hukum Chand Magi Lal|DLR00000000161801": {
                 "password": 3318
             },
-            "Ishika Enterprises|DLR000000184814": {
-                "password": 6077
-            },
             "Jain Pan Bhandar And General Stores|DLR00000000170088": {
                 "password": 2025
             },
             "Johar Brothers|DLR00000000161805": {
                 "password": 3061
-            },
-            "K Mohanlal And Sons|DLR000000175369": {
-                "password": 5353
             },
             "Kala Shri Sales|DLR000000184027": {
                 "password": 6960
@@ -2297,17 +2306,11 @@
             "Kush Traders|DLR00000000161811": {
                 "password": 2025
             },
-            "Lakshmi Traders|DLR00000000172825": {
-                "password": 2025
-            },
             "Maa Vaishno Sales Ag.|DLR00000000161812": {
                 "password": 9432
             },
             "Mandaliya Traders|DLR00000000161815": {
                 "password": 2774
-            },
-            "Pranjal More|DLR000000174080": {
-                "password": 1256
             },
             "Priya Marketting|DLR00000000161799": {
                 "password": 2025
@@ -2362,9 +2365,6 @@
             },
             "Sunil Kumar Anil Kumar Chourasiya|DLR00000000173697": {
                 "password": 3630
-            },
-            "Viishwas Traders|DLR00000000161841": {
-                "password": 2766
             },
             "Vinayak Marketing|DLR00000000161835": {
                 "password": 8552
@@ -2488,6 +2488,9 @@
             "Akchhay Confectionary And Kirana|DLR00000000167433": {
                 "password": 5688
             },
+            "Druv Agency|DLR00000000167236": {
+                "password": 2101
+            },
             "Jyoti Kirana|DLR00000000167435": {
                 "password": 2025
             },
@@ -2500,17 +2503,14 @@
             "Muskan Enterprises|DLR000000181821": {
                 "password": 1649
             },
-            "Paliwal Medical|DLR00000000167236": {
-                "password": 3038
+            "Radharani Enterprises|DLR00000000167438": {
+                "password": 7613
             },
             "Shagun Treadurs|DLR00000000167242": {
                 "password": 5951
             },
             "Sourav Inter|DLR00000000167238": {
                 "password": 8283
-            },
-            "Vardhman Inter|DLR00000000167438": {
-                "password": 3090
             },
             "Vijay Inter|DLR00000000167241": {
                 "password": 3090
@@ -2751,6 +2751,9 @@
             "M/S Balaji Sales Agency|DLR00000000160920": {
                 "password": 8582
             },
+            "Neelesh Stors|DLR000000185032": {
+                "password": 6055
+            },
             "Neetu Agency|DLR00000000160925": {
                 "password": 3113
             },
@@ -2807,8 +2810,8 @@
             "Geeta Kirna|DLR00000000172191": {
                 "password": 5526
             },
-            "Goyal Agency|DLR00000000173001": {
-                "password": 3590
+            "Liberty General Store|DLR00000000173001": {
+                "password": 7727
             },
             "M/S Gurudev Agency|DLR00000000172012": {
                 "password": 6166
@@ -2865,6 +2868,9 @@
             "Gautam Marketing|DLR00000000160619": {
                 "password": 2025
             },
+            "Harshita Marketing|DLR00000000170250": {
+                "password": 6978
+            },
             "Jain Kirana Stores|DLR00000000172933": {
                 "password": 2025
             },
@@ -2882,9 +2888,6 @@
             },
             "Nisha Sales|DLR00000000160629": {
                 "password": 7157
-            },
-            "Panna|DLR00000000170250": {
-                "password": 6978
             },
             "Sachin Traders|DLR00000000160630": {
                 "password": 4210
@@ -3072,8 +3075,17 @@
             "Om Kirana Store|DLR00000000168576": {
                 "password": 3610
             },
+            "Pm Shri Kendriya Vidyalaya|DLR000000184987": {
+                "password": 2025
+            },
+            "Principal Lisieux Anand School|DLR000000184989": {
+                "password": 2025
+            },
             "Shivam Traders|DLR00000000168580": {
                 "password": 1152
+            },
+            "Shri Ram Kirana Store|DLR000000185226": {
+                "password": 6528
             },
             "Vinay Traders|DLR000000173947": {
                 "password": 6721
@@ -3081,32 +3093,6 @@
         }
     },
     "Maharashtra": {
-        "Adhira Agency|ACUSDSS005": {
-            "Gandhade Agency|": {
-                "password": 2025
-            },
-            "Jayesh Agencies|": {
-                "password": 6670
-            },
-            "Rajesh Agency|": {
-                "password": 9585
-            },
-            "S.B.Food Products|": {
-                "password": 3632
-            },
-            "Sai Agency|": {
-                "password": 8991
-            },
-            "Sanjay Bhushan Gandhi|": {
-                "password": 8008
-            },
-            "Shree Siddhivinayak Agency|": {
-                "password": 4020
-            },
-            "Tejas Enterprises|": {
-                "password": 8003
-            }
-        },
         "Ajinkya Traders|ACUSDA0146": {
             "Ganesh Farsan Mart|DLR00000000173822": {
                 "password": 9494
@@ -3130,29 +3116,6 @@
                 "password": 3192
             }
         },
-        "Bharat Traders|ACUSDB0039": {
-            "Ashish Agency Gondya|": {
-                "password": 3527
-            },
-            "L And B Traders Sakoli|": {
-                "password": 3257
-            },
-            "Pioneer Trading Sadak Arjani|": {
-                "password": 6929
-            },
-            "Rajesh Kirana|": {
-                "password": 4073
-            },
-            "Sachin Stores|": {
-                "password": 2001
-            },
-            "Satish Traders|": {
-                "password": 1772
-            },
-            "Shrim Om Sai Agency|": {
-                "password": 2002
-            }
-        },
         "J.K. Brothers|ACUSDJ4838": {
             "Balwant & Co.|DLR00000000173168": {
                 "password": 2025
@@ -3165,9 +3128,6 @@
             },
             "Express Enterprises|DLR00000000173169": {
                 "password": 9957
-            },
-            "Gajanan Grain Store|DLR000000178408": {
-                "password": 4040
             },
             "Ganaga Sales|DLR00000000173200": {
                 "password": 4519
@@ -3189,6 +3149,9 @@
             },
             "Reeyan Enterprises|DLR00000000173187": {
                 "password": 7151
+            },
+            "S R Enterprises|DLR000000178408": {
+                "password": 6346
             },
             "S.P Enterpriese|DLR00000000172771": {
                 "password": 8785
@@ -3268,11 +3231,17 @@
             "H M Agencies|DLR00000000184148": {
                 "password": 3366
             },
+            "Khatun|DLR000000186037": {
+                "password": 1985
+            },
             "Mayur Enterprises|DLR00000000184147": {
                 "password": 5701
             },
             "Radhaswami Depatment|DLR00000000184282": {
                 "password": 8967
+            },
+            "Sa Enterprises|DLR000000186038": {
+                "password": 4074
             },
             "Shri Gajanan Trading Co|DLR00000000182548": {
                 "password": 3648
@@ -3305,9 +3274,6 @@
             },
             "Krishna Agencies ( Pg )|DLR00000000173100": {
                 "password": 2025
-            },
-            "Mr.Gaikwad|": {
-                "password": 3995
             },
             "Om Sai Agency|DLR00000000178376": {
                 "password": 5550
@@ -3416,77 +3382,6 @@
                 "password": 7622
             }
         },
-        "Optimize Crusder|ACUSDO0026": {
-            "Ashutosh Trading|": {
-                "password": 9375
-            },
-            "Asif Trader'S|": {
-                "password": 2095
-            },
-            "Atharva Agency|": {
-                "password": 2877
-            },
-            "Bhargav Marketing|": {
-                "password": 6480
-            },
-            "Bhute Agency|": {
-                "password": 7771
-            },
-            "Bikaner Agency|": {
-                "password": 4609
-            },
-            "Deva Agency|": {
-                "password": 7937
-            },
-            "Duttkrupa Agency|": {
-                "password": 1600
-            },
-            "Golden Foods|": {
-                "password": 5374
-            },
-            "Laxmi Trading|": {
-                "password": 7920
-            },
-            "Mahalaxmi Agency|": {
-                "password": 8130
-            },
-            "Mohak Trader'S|": {
-                "password": 7760
-            },
-            "Nakshtra Agency|": {
-                "password": 8191
-            },
-            "Narayan Marketing|": {
-                "password": 6175
-            },
-            "New Rozina Agency|": {
-                "password": 2520
-            },
-            "Payal Agency|": {
-                "password": 1547
-            },
-            "Rajesh Agency|": {
-                "password": 7392
-            },
-            "Rk Trader'S|": {
-                "password": 2025
-            },
-            "Roshan Trader'S|": {
-                "password": 3746
-            },
-            "S & S Traders|": {
-                "password": 3568
-            },
-            "Shreeji Foods|": {
-                "password": 1793
-            },
-            "Shri Krishna Marketing|": {
-                "password": 3055
-            },
-            "Sp Agency|": {
-                "password": 8182
-            }
-        },
         "Prabhat Agency|ACUSDP2385": {
             "A.1 Enterprises|DLR000000174894": {
                 "password": 3838
@@ -3579,23 +3474,17 @@
             "Adishakti Enterprises|DLR000000184235": {
                 "password": 1653
             },
-            "Aishwarya Distributors|": {
-                "password": 7687
-            },
             "Akshay Trading Company|DLR000000184238": {
                 "password": 3238
             },
             "Balaji Traders|DLR000000184239": {
                 "password": 7872
             },
-            "Chintamani Distributors|DLR00000000174149": {
+            "Chintamani Distributors|DLR00000000185028": {
                 "password": 7432
             },
             "Innovator Distributor|DLR000000174205": {
                 "password": 1299
-            },
-            "Pakiza Enterprises|": {
-                "password": 4535
             },
             "Parshwanath Agency|DLR000000174204": {
                 "password": 7941
@@ -3640,6 +3529,9 @@
             },
             "Jai Jalaram Traders-Pg-Vrajeshwari|DLR00000000166275": {
                 "password": 2905
+            },
+            "Kspl Agro Foods & Consumer Products Llp|DLR000000185109": {
+                "password": 9801
             },
             "Manish Agency-Pg-Wada|DLR00000000166276": {
                 "password": 2025
@@ -3824,6 +3716,12 @@
             "Jai Ambey Trading Co.|DLR00000000160653": {
                 "password": 3600
             },
+            "Kanha Ji Trading|DLR00000000184370": {
+                "password": 2574
+            },
+            "Lalan Confectionery|DLR000000186327": {
+                "password": 1652
+            },
             "P K Traders|DLR00000000160673": {
                 "password": 9151
             },
@@ -3854,6 +3752,9 @@
             "Sita Ram Darshan Lal|DLR00000000160683": {
                 "password": 2218
             },
+            "Suri Traders|DLR00000000185211": {
+                "password": 8035
+            },
             "Vashist Agencies|DLR00000000160677": {
                 "password": 2025
             },
@@ -3864,6 +3765,9 @@
         "Bajarang Sweet House (Conf)|ACUSDB0963": {
             "A P Enterprises (Gidderbaha)|DLR00000000163484": {
                 "password": 3090
+            },
+            "Aggrwal Trading|DLR00000000180446": {
+                "password": 2025
             },
             "Ajay Karyana Store|DLR00000000163527": {
                 "password": 5961
@@ -3901,6 +3805,9 @@
             "Bhanja Trading Co|DLR00000000163503": {
                 "password": 5197
             },
+            "Chawla Traders|DLR00000000163521": {
+                "password": 1316
+            },
             "Deep Industrises|DLR00000000168436": {
                 "password": 7030
             },
@@ -3918,6 +3825,9 @@
             },
             "G R Gandhi & Sons (Faridkot)|DLR00000000163490": {
                 "password": 4008
+            },
+            "Garg Genrel Store|DLR00000000163581": {
+                "password": 2025
             },
             "Garg Traders (Rampura Phul)|DLR00000000171260": {
                 "password": 6000
@@ -4009,6 +3919,9 @@
             "Shri Ram Trading Co.(Guru Har Sahai)|DLR00000000163522": {
                 "password": 9617
             },
+            "Singh Cold Drinks|DLR00000000184676": {
+                "password": 2025
+            },
             "Singla Trader (Bathinda)|DLR00000000163585": {
                 "password": 3531
             },
@@ -4095,6 +4008,9 @@
             "Manchanda Cold Drinks|DLR00000000158857": {
                 "password": 2025
             },
+            "Manchanda Trading Co. Suna|DLR000000185637": {
+                "password": 9930
+            },
             "Manish Variety Store|DLR000000184681": {
                 "password": 2025
             },
@@ -4136,9 +4052,6 @@
             "Ansh Trading Co|DLR00000000158923": {
                 "password": 6605
             },
-            "Ashwani Confectionery Store|DLR00000000158943": {
-                "password": 1526
-            },
             "Babbu Di Hatti|DLR00000000158890": {
                 "password": 4548
             },
@@ -4172,6 +4085,9 @@
             "Honey Confectionary|DLR00000000158879": {
                 "password": 3461
             },
+            "Jagan Nath Pawan Kumar|DLR00000000185444": {
+                "password": 7870
+            },
             "Jagdish Varieity Store|DLR00000000158909": {
                 "password": 3031
             },
@@ -4195,9 +4111,6 @@
             },
             "Pawan Kumar|DLR00000000168509": {
                 "password": 2288
-            },
-            "Rajesh Trading Co|DLR00000000158926": {
-                "password": 8610
             },
             "Rs Trading Company|DLR00000000158910": {
                 "password": 8005
@@ -4229,6 +4142,9 @@
             "Tarsem Kumar S/O Mukand Lal|DLR00000000158884": {
                 "password": 8672
             },
+            "Trimurti Enterprises|DLR00000000158916": {
+                "password": 8610
+            },
             "Vansh Trader|DLR00000000183776": {
                 "password": 9653
             },
@@ -4240,9 +4156,6 @@
             }
         },
         "Garg Sales Corporation|ACUSDG1091": {
-            "A R Trading Co|DLR00000000172595": {
-                "password": 8748
-            },
             "Ansh Traders|DLR00000000158782": {
                 "password": 2025
             },
@@ -4390,6 +4303,9 @@
             },
             "Sandeep Trading Company|DLR00000000171220": {
                 "password": 2566
+            },
+            "Shri Bankerbihari Traders|DLR000000186555": {
+                "password": 2025
             },
             "Shri Radhe Store|DLR00000000171410": {
                 "password": 8671
@@ -4551,6 +4467,9 @@
             "M/S Kundal Coldrinks|DLR00000000158725": {
                 "password": 5376
             },
+            "M/S Mahajan Store|DLR00000000162931": {
+                "password": 3334
+            },
             "Madan Lal & Sons|DLR00000000158719": {
                 "password": 3103
             },
@@ -4666,6 +4585,9 @@
             "Bishambar Nath & Sons|DLR00000000166469": {
                 "password": 6474
             },
+            "Chawala Trending Company|DLR00000000184884": {
+                "password": 4478
+            },
             "Darshan Lal & Sons|DLR00000000166494": {
                 "password": 6909
             },
@@ -4674,6 +4596,9 @@
             },
             "Ganpati Confectionary|DLR00000000168263": {
                 "password": 8536
+            },
+            "Goyal Industrices|DLR00000000184441": {
+                "password": 7896
             },
             "Hargun Trading Co|DLR00000000166498": {
                 "password": 4731
@@ -4690,7 +4615,7 @@
             "Radha Kirana Store|DLR00000000166461": {
                 "password": 4132
             },
-            "Rattan Chandh|DLR00000000166500": {
+            "Rattan Chandh|DLR00000000185656": {
                 "password": 7821
             },
             "Ritu Confectionary|DLR00000000166475": {
@@ -5082,7 +5007,7 @@
             "Aarzoo Traders|DLR000000173946": {
                 "password": 1141
             },
-            "Agarwal Agencies|DLR000000184755": {
+            "Agarwal Agencies|DLR00000000167761": {
                 "password": 4340
             },
             "Amit Kirana And Genral Store|DLR000000184760": {
@@ -5183,6 +5108,9 @@
             },
             "Vipin Enterprises|DLR00000000167820": {
                 "password": 5543
+            },
+            "Yojna Agency|DLR000000185588": {
+                "password": 2025
             }
         },
         "Jai Shankar Agency|ACUSDJ0595": {
@@ -5415,7 +5343,7 @@
                 "password": 3754
             }
         },
-        "Nls Brothers Private Limited|ACUSDNOO55": {
+        "Nls Brothers Private Limited|ACUSDN0055": {
             "Aarzoo Traders|DLR00000000173698": {
                 "password": 1141
             },
@@ -5529,6 +5457,9 @@
             },
             "Vipin Enterprises|DLR00000000165828": {
                 "password": 5543
+            },
+            "Yojna Agnecy|DLR00000000174220": {
+                "password": 4576
             }
         },
         "Palak Agency|ACUSDP0178": {
@@ -5657,6 +5588,9 @@
                 "password": 6460
             },
             "Kritika Agency|DLR000000181819": {
+                "password": 2025
+            },
+            "M/S Tirupati Enterprises|DLR00000000167993": {
                 "password": 2025
             },
             "Rajlaxmi Enterprises|DLR00000000167992": {
@@ -5887,8 +5821,14 @@
             "Agarwal Sales Agency|DLR00000000159660": {
                 "password": 4594
             },
+            "Aman Enterprises|DLR000000185065": {
+                "password": 2025
+            },
             "Gopalka Traders|DLR00000000159665": {
                 "password": 7082
+            },
+            "Hemant Enterprises|DLR000000185804": {
+                "password": 4342
             },
             "Jain Trading Companyranoli|DLR00000000159666": {
                 "password": 6674
@@ -5943,8 +5883,14 @@
             "Laduram Jagdish Prasad|DLR00000000168431": {
                 "password": 2534
             },
+            "Laxmi Trading Company|DLR000000185066": {
+                "password": 8801
+            },
             "Motilal Vishawanath|DLR00000000168432": {
                 "password": 2025
+            },
+            "Om Sales Corporation|DLR00000000185244": {
+                "password": 2580
             },
             "Rahul Kirana Store|DLR00000000168732": {
                 "password": 5935
@@ -5978,11 +5924,11 @@
             "Amit Agency|DLR00000000165126": {
                 "password": 2025
             },
-            "Anant Traders|DLR00000000165130": {
-                "password": 8039
-            },
             "Bhagya Shree Traders|DLR00000000169341": {
                 "password": 9957
+            },
+            "Bright Enterprises|DLR00000000165130": {
+                "password": 7878
             },
             "Chawda Enterprises|DLR00000000165140": {
                 "password": 1892
@@ -6041,6 +5987,9 @@
             "Om Enterprises|DLR00000000169584": {
                 "password": 5999
             },
+            "Raghav Enterprises|DLR000000185964": {
+                "password": 7990
+            },
             "Rashi Agencies|DLR00000000178416": {
                 "password": 9839
             },
@@ -6068,11 +6017,17 @@
             "Shri Balaji Distributers|DLR00000000178451": {
                 "password": 2025
             },
+            "Shri Chittora Trading|DLR000000186462": {
+                "password": 3993
+            },
             "Shri Radhey Sales|DLR00000000165145": {
                 "password": 6408
             },
             "Shri Ram Kirana Store|DLR000000184852": {
                 "password": 4775
+            },
+            "Sudhaashray Enterprises|DLR000000186463": {
+                "password": 4679
             },
             "Yash Kirana Sumerganj Mandi|DLR00000000168660": {
                 "password": 2025
@@ -6308,9 +6263,6 @@
             },
             "Anil Traders|DLR00000000159220": {
                 "password": 7526
-            },
-            "Arnav Traders|DLR00000000159222": {
-                "password": 1356
             },
             "Geeta Traders|DLR00000000159247": {
                 "password": 3168
@@ -6630,7 +6582,7 @@
             "Kunal Agencies|DLR00000000160216": {
                 "password": 7739
             },
-            "M/S Walia Traders|DLR000000184680": {
+            "M/S Walia Traders|DLR00000000184310": {
                 "password": 3154
             },
             "Mahveer Enterprises|DLR00000000160248": {
@@ -6638,6 +6590,9 @@
             },
             "Mohit Traders|DLR00000000160214": {
                 "password": 9621
+            },
+            "Naushad Sabri Trader'S|DLR000000185848": {
+                "password": 1092
             },
             "Pari Enterprises|DLR00000000173563": {
                 "password": 7710
@@ -6654,6 +6609,9 @@
             "Rai Enterprises|DLR00000000169049": {
                 "password": 9409
             },
+            "Rudrapartap Trader'S|DLR000000186391": {
+                "password": 1907
+            },
             "Sharma Traders|DLR00000000168847": {
                 "password": 1242
             },
@@ -6663,7 +6621,7 @@
             "Surendra Agencies|DLR00000000160205": {
                 "password": 9368
             },
-            "Tanvi Trading Company|DLR000000184808": {
+            "Tanvi Trading Company|DLR00000000184812": {
                 "password": 3075
             }
         }
